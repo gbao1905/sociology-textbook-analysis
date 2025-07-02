@@ -1,0 +1,2637 @@
+“J
+a changing society
+
+DAVID HOLMES KATE HUGHES) ROBERTA JULIAN
+
+
+a changing society
+
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+=_J
+a changing society
+
+HOLMES HUGHES JULIAN
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015
+
+Pearson Australia
+707 Collins Street
+Melbourne VIC 3008
+
+www.pearson.com.au
+
+The Copyright Act 1968 of Australia allows a maximum of one chapter or 10% of this book, whichever is the greater, to be
+copied by any educational institution for its educational purposes provided that that educational institution (or the body that
+administers it) has given a remuneration notice to Copyright Agency Limited (CAL) under the Act. For details of the CAL
+licence for educational institutions contact:
+
+Copyright Agency Limited, telephone: (02) 9394 7600, email: info@copyright.com.au
+
+All rights reserved. Except under the conditions described in the Copyright Act 1968 of Australia and subsequent amendments,
+no part of this publication may be reproduced, stored in a retrieval system or transmitted in any form or by any means,
+electronic, mechanical, photocopying, recording or otherwise, without the prior permission of the copyright owner.
+
+Senior Learning Architect: Lucy Elliott
+Development Editor: Greg Tantala
+
+Project Managers: Katie Millar and Bernadette Chang
+Copyright and Pictures Editor: Lisa Woodland
+Production Coordinator: Caroline Stewart
+Copy Editor: Maryanne Phillips
+
+Proofreader: Nicole Le Grand
+
+Indexer: Garry Cousins
+
+Cover design by Natalie Bowra
+
+Cover illustration © PILart/Shutterstock
+Typeset by Aptara’, Inc.
+
+Printed in Malaysia
+12345 19 18 17 16 15
+
+National Library of Australia
+Cataloguing-in-Publication Data
+
+Author: Holmes, David, author.
+
+Title: Australian sociology : a changing society / David Holmes,
+Kate Hughes, Roberta Julian.
+
+Edition: 4th edition.
+
+ISBN: 9781486003310 (paperback)
+
+ISBN: 9781486007202 (Vital Source)
+
+Subjects: Sociology—Australia.
+
+Social change—Australia.
+
+Australia—Social conditions.
+
+Other Authors/Contributors:
+Hughes, Kate Pritchard, author.
+Julian, Roberta, author.
+
+Greig, Alastair, contributor.
+
+Dewey Number: 301.0994
+
+Every effort has been made to trace and acknowledge copyright. However, should any infringement have occurred, the
+publishers tender their apologies and invite copyright owners to contact them. Due to copyright restrictions, we may have been
+unable to include material from the print edition of the book in this digital edition, although every effort has been made to
+minimise instances of missing content.
+
+
+CONTENTS
+
+Preface ix
+Acknowledgements xiii
+
+CHAPTER 1 WHAT IS SOCIOLOGY? David Holmes 1
+What does sociology study? 4
+
+How does sociology study? The sociological imagination 6
+
+Conclusion 15
+
+Critical thinking questions 15
+
+References 16
+
+CHAPTER 2 CLASS Alastair Greig and David Holmes 17
+Measuring inequality 19
+
+Theories of class 22
+
+Classes in Australia 30
+
+Conclusion 36
+
+Critical thinking questions 36
+
+References 37
+
+CHAPTER3 #ABORIGINALITY AND AUSTRALIA'S INDIGENOUS PEOPLES
+
+Roberta Julian (with Carol Pybus) 39
+Structural inequality 42
+Colonialism and dispossession 45
+Aboriginal identity: Who is an Aborigine? 50
+Demographic and social profile 53
+Racism and reconciliation:‘Uneasy conversations’
+and emergent dialogues 60
+Conclusion 62
+Critical thinking questions 62
+References 63
+CHAPTER 4 THE USES OF GENDER kate Hughes 68
+‘Sex’ and ‘gender’ are not synonymous 69
+At the individual level 72
+Gender in wider society 78
+Conclusion 88
+Critical thinking questions 88
+References 89
+
+CHAPTER 5 ETHNICITY AND IMMIGRATION: CHALLENGING
+
+THE NATIONAL IMAGINARY? Roberta Julian 90
+The meaning of ‘ethnicity’ 91
+Ethnicity, migration and settlement 100
+Trends in Australian immigration 102
+Settlement policy: From assimilation to multiculturalism 107
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+Immigrants in Australia 110
+
+Ethnicity and national identity 119
+
+Conclusion 121
+
+Critical thinking questions 121
+
+References 122
+
+CHAPTER6 =THEKNOWLEDGE GENERATION Kate Hughes 130
+
+Who is doing it—and why? 131
+
+What does education do to you? 134
+
+Secondary education 139
+
+Gender and class in secondary education 142
+
+Tertiary education 148
+
+The new knowledge economy 149
+
+Conclusion 151
+
+Critical thinking questions 152
+
+References 152
+
+CHAPTER7 ILLNESS, HEALTH AND THE PURSUIT OF WELLBEING Kate Hughes 155
+
+What is ‘health’? 156
+
+Ways of defining and managing illness and health 159
+
+The clinical gaze 166
+
+The distribution of health and illness 169
+
+Conclusion 176
+
+Critical thinking questions 176
+
+References 176
+
+CHAPTER 8 PERSONAL LIVES Kate Hughes 179
+
+The way we were 180
+
+A period of transition 184
+
+The way weare 188
+
+Conclusion 201
+
+Critical thinking questions 202
+
+References 202
+
+CHAPTER9 DEVIANCE OR DIFFERENCE? Roberta Julian 205
+
+What is deviance? 206
+
+Explaining deviant behaviour—theories of deviance 208
+
+Deviance and social order 209
+
+Deviance and culture 211
+
+Deviance and power 213
+
+Deviance and social control 215
+
+Deviance and difference 218
+
+Crime and deviance in Australia 220
+
+Conclusion 228
+
+Critical thinking questions 228
+
+References 228
+
+CHAPTER10 THE WORKING ENVIRONMENT Alastair Greig 233
+The industrial revolution, the division of labour
+
+and classical sociology 234
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+The labour process after the industrial revolution 236
+Work, classes and industrial relations 240
+Work, gender and family 244
+Unemployment and its solutions: Are we facing an‘end of work’? 248
+Conclusion 251
+Critical thinking questions 252
+References 252
+CHAPTER11 POWERANDTHE STATE Alastair Greig 256
+The democratic basis of modern power 258
+The class basis of modern power 262
+The rational basis of modern power 265
+Foucault and the reconceptualisation of power 268
+The state of the future 272
+Conclusion 275
+Critical thinking questions 275
+References 276
+CHAPTER12 RELIGION AND SPIRITUALITY Roberta Julian 278
+What is religion? 279
+Theories of religion 281
+Religion and social change 284
+Religion in Australia 287
+Religious expression in modernity and postmodernity 288
+Conclusion 298
+Critical thinking questions 298
+References 299
+CHAPTER13 GLOBALISATION AND THE CITY Alastair Greig 303
+Economic globalisation 304
+The phases of imperialism 305
+Global inequalities 309
+Cultural globalisation and mobility 312
+Globalisation and the commodification of everything 316
+The city and cultural globalisation 318
+The city and economic globalisation 321
+Conclusion 323
+Critical thinking questions 324
+References 324
+CHAPTER 14 FROM MASS MEDIA TO SOCIAL MEDIA David Holmes 327
+What is ‘the media’? 328
+The media in Australia 329
+Theories of mass media 334
+The media as an ideological state apparatus 336
+The media and the industrialisation of culture 337
+The media as popular culture 338
+The mass media as ‘simulacra’—Jean Baudrillard 340
+The medium is the message—Marshall McLuhan 341
+The networked society 341
+
+CONTENTS @
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+@ AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+The social media Leviathan 343
+Rituals of media 346
+Conclusion 347
+Critical thinking questions 348
+References 348
+CHAPTER 15 CHANGING THE CLIMATE: MODERNITY AT ITS LIMITS David Holmes 350
+The science of global warming 354
+Climate change impacts for Australia 362
+The politics of climate change 367
+The sociology of science and technology 370
+Technoscience and climate change 371
+Conclusion 372
+Critical thinking questions 372
+References 372
+CHAPTER 16 SOCIOLOGICAL THEORY David Holmes 374
+The great transformation 375
+Intellectual precursors of sociology 377
+The emergence of sociology as a discipline 378
+Twentieth-century sociological theory 395
+The Anthropocene and the end of the social sciences 408
+Conclusion 410
+Critical thinking questions 410
+References 411
+CHAPTER 17) HOWTO CARRY OUT A SIMPLE RESEARCH PROJECT Kate Hughes
+THIS CHAPTER Research methodologies
+IS ONLINE The research process
+ONLY Analysing and presenting the results
+Conclusion
+Critical thinking questions
+References
+Glossary 413
+Index 427
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+PREFACE
+
+Welcome to the fourth edition of Australian Sociology: A Changing Society.
+
+This book provides an overview of the discipline of sociology through an analysis
+of Australian society. In doing so, it draws on a diverse range of perspectives as well as
+myriad topics that go to issues at the core of Australian social life.
+
+Some of these issues, such as social division and inequality, raise questions about
+the structure of Australian society; while others, such as health, religion, media, work
+and deviance, point to how this structure is reproduced over time.
+
+The study of social structure inherits perspectives that have survived since the
+founding of sociology as a discipline. These perspectives, which are presented in
+the sociological theory chapter in a more compact form—now located at the end of
+the volume—continue to frame the way sociology adapts to social change. But the
+study of altogether new social realities, such as the speed of globalisation today,
+profound changes in the nature of identity in the modern world, and the global
+threat to social organisation posed by climate change, requires new and
+interdisciplinary forms of analysis.
+
+In this edition, recent changes affecting traditional divisions of class, race, ethnicity
+and gender have been documented and analysed with the latest statistics. The rise of
+neo-liberalism, and the impact of globalisation on education are covered, while the
+sociological implications of new education policies are also examined. Economic
+models of education delivery are investigated, such as the changing funding formulas
+for secondary schools and the emergence of free courses at universities delivered by
+MOOCs (Massive Open Online Courses). Perhaps the most extensive revisions are
+evident in the chapter on class, not simply with the statistics but by exploring new
+ways of measuring class stratification. Global inequality is also re-examined in the
+chapter on globalisation and the city—much expanded in the world today, with more
+than half the world’s population living in metropolitan cities.
+
+Three chapters that stand out for the way they suggest a shift in the field of sociology
+itself are Personal Lives (Chapter 8), Changing the Climate: Modernity at Its Limits
+(Chapter 15) and From Mass Media to Social Media (Chapter 14). The former chapter
+is premised on the observation that the modern ‘family’ as a unit is no longer
+recognisable as it once was. The once-heralded social unit of the nuclear family
+continues its steady decline, as blended families and postmodern living arrangements
+such as heteronormativity, living alone, living apart together, living with friends, and
+the living patterns of adult children of divorce become increasingly common forms of
+the household unit. The importance of friendship networks and the complex influences
+on personal life have eclipsed the sociology of the family to the point where an entire
+branch of sociology needs to be recast.
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+@ AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+The chapter that perhaps presents a dramatic challenge to the sociological field itself
+is the chapter on climate change. This chapter, which first appeared in the last edition
+and is fully updated here, tackles what is arguably the most pressing issue facing global
+society—the threat that climate change poses to the continuation of modern social
+life. The idea that human society has evolved during the relatively climate-stable period
+of the Holocene, roughly the 10 000 years leading up to 1750, come to be challenged by
+the terraforming and climate-altering impact of humans, now recast as the Anthropocene
+human history since 1750, when industrial emissions of greenhouse gases began. The
+chapter explores the science of climate change in detail, climate change scepticism and
+radicalism, the debate about human-induced causes of climate change, and the
+sociology of technology that informs understandings of the conflict between nature
+and culture.
+
+A third major standout area that is featured in this book is the extraordinary take-up
+of social media in Australia and around the world. Australians are the heaviest per
+capita users of social media in the world today, with 66 per cent of the population
+logging in daily to Facebook alone. The social media leviathan has really confounded
+the forecasts of the early 1990s when the internet became fully domesticated, as the
+importance of using the internet to continue social relationships that people already
+have offline has proven to be much moreimportant than the anonymous communication
+of the avatar.
+
+But more important still, is the ability to personalise our relationships with social
+media, to feel like we have control over them with our privacy settings, our profile
+pages and the way we can present a self-for-others. In a way, social media sits at the
+heart of a paradox in modern social life, which is the simultaneous expansion and
+contraction of everyday life. On the one hand, social media is a networking technology
+of global scale, the culmination of a truly connected world. On the other hand the
+basis of our connection can be as small as the smartphone in our pocket or the
+thumbnail of smart apps depicted on the front cover of this book. But between
+the incredible reach of this global connectivity to the private rituals of how we use
+our phone, there is the possibility that the public sphere in between these extremes
+has begun to disappear, as the street, our institutions and the social forms founded
+on physical assembly have been overtaken by the electronic assembly.
+
+Aside from the sociological material, the book includes a number of crucial teaching
+and learning tools in order to make it an easy and productive book to use by both
+students and lecturers. You will find at the start of each chapter, for example, a chapter
+outline which is a summary of its contents, and throughout each chapter a set of
+learning outcomes. Within each chapter there are a number of feature boxes, which
+highlight or expand an issue discussed, or offer a case study. In addition, you will find
+highlighted key terms defined and their use discussed in the margin notes and
+consolidated in the glossary at the end of the book.
+
+At the conclusion of each chapter there are a number of features which will assist
+students to develop their learning further. There are a series of critical thinking
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+questions, which challenge readers to interrogate some of the issues raised in the
+chapter. On the Pearson website there is a list of texts which are recommended as
+further reading, or as reference books. Here you will also find an annotated list of
+websites and other multimedia that can assist with everything from statistical data to
+discussion groups to non-government organisations interested in the material
+discussed in the chapter. Also available on the website is Chapter 17, which provides
+research tools for undertaking field research projects. It includes a discussion of
+statistical software packages, the ethics of research and a step-by-step guide to the
+selection of topics, methods and the writing-up phases of research.
+
+In conclusion, we hope that you enjoy Australian Sociology and that it enables you
+to understand more clearly both the society we live in and the ways in which it is likely
+to develop in the future. Most important of all, we hope it helps you to do this critically.
+
+David Holmes
+Kate Hughes
+Roberta Julian
+Alastair Greig
+
+PREFACE @
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+ACKNOWLEDGEMENTS
+
+David Holmes
+First, it is a pleasure to welcome Alastair Greig on board for this edition to
+reinvigorate the chapters on Class, The Working Environment, Power and the
+State, and Globalisation and the City.
+
+Second, I am most grateful for the continuity provided by Lucy Elliott at Pearson,
+who has been enthusiastically overseeing the production of this text for two
+editions now. Again, the production team at Pearson has set a high standard for
+the authors to work to, and our copy editor Maryanne Phillips has been excellent
+to work with.
+
+For gaining the insights needed to rewrite the From Mass Media to Social Media
+chapter, I am grateful to all my undergraduate and postgraduate students who
+keep me in touch with the frontiers of new media. In particular, I have included
+some work co-authored with my Honours student, Anna Matwijiw, on Facebook,
+which has been previously published at The Conversation, where it attracted a
+great deal of interest.
+
+Special thanks are due to those who assisted me with the revision of the Climate
+Change chapter, especially all the readers of my climate change column at The
+Conversation, who make helpful comments ... and, of course, the resistance trolls.
+One of the In Focus boxes, ‘Four Hiroshima Bombs a Second’ has previously been
+published in The Conversation as part of a trilogy on how we imagine climate
+change. I would also like to thank Len Puglisi and Phil Alford who have kept
+me in touch with how climate change developments have been covered in the
+mainstream media. My gratitude also goes out to the Faculty of Arts at Monash
+University for providing me with sabbatical leave in 2014 which has allowed me
+to take on projects I had postponed in revising some of these chapters.
+
+Kate Hughes
+Iam grateful to Professor Roger Slee and my colleagues at the Victoria Institute for
+Education, Diversity and Lifelong Learning at Victoria University for providing
+me with the support to work on this book. Thanks also to David Lee for his
+indulgence and discernment in understanding what works and what doesn't. To
+Owen, Brenda, Alex, Shannon, Ana, Nathan and Chris—their guidance over the
+dinner table kept me on target.
+
+Roberta Julian
+
+I wish to thank my colleagues and postgraduate students in the School of Social
+Sciences at the University of Tasmania, particularly those at the Tasmanian
+Institute of Law Enforcement Studies, for their support and interest in my
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+ACKNOWLEDGEMENTS @
+
+research and teaching. Thanks also to Dr Jackie Hallam who provided timely
+research assistance in chasing the latest relevant studies and journal articles
+for this edition. Most importantly I thank my partner, Michael Best, and our
+two wonderful children, Zoe and Jacob, for their constant support and their
+unquestioning acceptance of my long working hours. I would like to dedicate
+this edition to my mother, Dorothy Julian, whose capacity to overcome life-
+threatening events and rise above the daily difficulties of coping with her
+physical health problems is amazing. She is an inspiration to all of us.
+
+The publisher would like to thank the following reviewers:
+David Hodgson
+
+Edith Cowan University
+
+Dr Meredith Nash
+
+University of Tasmania
+
+Dr Phillip Ablett
+University of Sunshine Coast
+
+Dr Gisela van Kessel
+University of South Australia
+Dr Lou Wilson
+
+University of South Australia
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+CHAPTER 1
+
+WHAT IS SOCIOLOGY?
+
+\PTER OUTLINE
+
+® This chapter introduces the central themes and problems that define sociology.
+
+© Apreliminary sketch of the concept of ‘society’ is given in order to indicate the range of
+areas that sociology is capable of addressing.
+
+™@ It considers what sociology studies and outlines the primary social ‘objects’ of the discipline,
+which at their broadest include capitalism, modernity and patriarchy.
+
+© Forms of sociological imagination are described to demonstrate how sociology conducts
+its investigation. The historical, anthropological and critical dimensions of the sociological
+imagination are detailed.
+
+® The chapter also highlights the political nature of sociological knowledge. It explains how
+sociology relates to the practical world and to our policies on social issues and society as a
+whole.
+
+—® Lastly, the importance of comparing the different perspectives offered by sociology is
+stressed. By comparing available perspectives, students of sociology are able to decide for
+themselves how to approach both large and small problems in social life.
+
+learning outcomes
+
+By the end of this chapter you will be able to:
+
+LO1 Describe the field of investigation that
+sociology studies
+
+LO2 Explain how sociology’s concern with
+inequality and power is linked to social
+reproduction and social change
+
+LO3 Describe the origins of the sociological
+imagination and the different forms it has
+taken
+
+LO4 Explain how the methods employed by the
+sociological imagination have political
+implications
+
+© Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+2) AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+society
+
+In an everyday sense,
+
+‘society’ describes the social
+arrangements that take place
+within national boundaries.
+Sometimes, however, society is
+used in ways that transcend the
+nation-state, as in ‘Kurdish’
+society. Sociologists employ an
+even more general sense of
+society as inclusive of all forms
+of association. Society does not
+have to have a homogeneous
+unity, as in 19th-century
+conceptions of ‘community’;
+rather, it is often posited in
+opposition to the idea of
+‘community’ as a form of
+association that is pluralistic,
+multilayered, but nevertheless
+structured according to a
+particular ‘social formation’.
+
+It is when the social world loses its character as a natural phenomenon that the
+question of the natural or conventional character of social facts can be raised.
+
+(Bourdieu 1987: 169)
+
+When do we feel most at home? When do you feel most at home? The answers to
+these questions invariably depend on your social position and your identity in society.
+
+What is it about our environment that helps us feel secure? Sociology, the study of
+society, is a hybrid term that combines the Greek word socius, ‘companionship’, with
+the Latin ology, ‘the study of. But companionship is only the smallest unit of a social
+relationship. As we shall see in this book, social relationships can be very complex,
+with many kinds of barriers and divisions within social life that prohibit or discourage
+certain kinds of relationships. The layers of meaning we give to these relationships
+also derive from our sense of belonging to them. Therefore, we may feel ‘at home’ in
+a range of contexts—in an intimate relationship, with our family, with our neighbour-
+hood, our suburb, our city, our nation; indeed, some may feel equally at home any-
+where in the world. However, the latter sense of home, which globalisation has made
+possible, is not nearly so common as our tendency to identify more locally or nation-
+ally. For example, when we say we ‘live in a society’ this usually refers to the com-
+monsense notion of living within the boundaries of a national territory. Within such
+a sense of ‘society’, additional contexts of belonging are possible—our workplace, the
+local shopping centre, the university, our household. Wherever we find attachment
+and belonging, we are never removed from the principle of association represented
+by the concept of ‘society’.
+
+Throughout this book, we view the concept of society from ever more general per-
+spectives of organised knowledge. In the process, new and unique understandings of
+social realities, both large and small, will come into view. The variety of perspectives
+that provide these new visibilities make up the discipline of sociology.
+
+Sociology, as Berger (1976) observes, trains us for “seeing the general in the particu-
+lar’. It provides a body of organised knowledge for understanding social collectivities
+and the place of social activities within them. Of course, within sociology there are, in
+turn, numerous perspectives for arriving at an interpretive understanding of social
+reality, but what is common to each of these perspectives is that they somehow allow
+us to ‘see through’ the everyday layers of meaning by which we most commonly under-
+stand our world, and enable us to explain things that seemed inexplicable previously.
+
+Part of the reason for this is that sociology not only gives everyday life new mean-
+ings: it posits the existence of new kinds of social ‘furniture’ that might previously
+have been invisible to us but which, once visible, may seem indispensable to a better
+understanding of the social world.
+
+Consider the example of class, a social reality explored in depth in Chapter 2. Most
+of us have an understanding of belonging to a class—as a group or as a rank in a hier-
+archy. We might even project assumptions about hierarchy on to other everyday
+realities. When our favourite sportsperson does well, we might describe him or her as
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+CHAPTER 1 WHAT IS SOCIOLOGY? r 2)
+
+a ‘classy’ performer. Consciousness of class pervades much of our lives, our ambitions,
+our sense of power and opportunity. But where do classes come from? Have there
+always been classes? Are classes just social rankings that we are born into, or are they
+forces of change? Investigating class further opens up new, unfamiliar layers of under-
+standing the social world that often question our familiar, ‘commonsense’ outlook.
+
+Gender is yet another example. Many of us think of gender as ‘natural’; that gender
+is somehow a correlate of ‘sex’, of being male or female (see Chapter 4). Men are
+attributed with a set of ‘masculine’ qualities and women ‘feminine’. Until quite
+recently, sex and gender have been seen as inextricable. This situation began to
+change in Australia and in many capitalist nations over the past 50 years, when the
+match between gender—socially prescribed attributes—and ‘sexed’ individuals began
+to decouple. Sex and gender have undergone a limited separation; some are anxious
+about this, and others applaud it. Of course, advertisements on television and toys at
+the supermarket continue to suggest stereotypes for men and women, boys and girls.
+But in other areas of culture, especially in the workplace and the home, gender roles
+have shifted, and the previous correspondence between gender and sex has been
+blurred. Women are moving into traditional ‘male’ jobs and men are conversely
+undertaking many domestic tasks that society once ascribed to women. But how far
+has this separation gone? Does gender remain central to self-identity? Do individuals
+feel a need to be identified as ‘gendered’ because it gives them easy access to a secure
+role? And is such a role as ‘easy’ and secure for women and/or for men? What forces
+maintain this distribution of identity known as gender?
+
+Both of these phenomena, class and gender, are on the one hand very familiar to
+us, but they are also more than the social furniture of everyday life, as we shall see. For
+example, most sociologists view ‘class’ as a global phenomenon. However, many of us
+think of class in terms of status only, and compare ourselves to others in our own
+street, or city or nation, through the category of class. Although we rarely compare
+ourselves to people in other nations in class terms, most of the quality of life that is
+enjoyed in a first-world nation such as Australia can be shown to derive from a glo-
+bally divided class system.
+
+Sociology provides us with theories, perspectives and a massive assembly of social
+facts through which to understand the most universal realities such as globalisation,
+down to the seemingly most personal realities, such as the act of suicide. In doing so,
+sociology shares with philosophy two major concerns—ontology and epistemology.
+Ontology is the study of ‘what exists’, whereas epistemology is the study of ‘how we
+know what exists’. In Chapter 16, we shall see how the epistemology we use, how we
+view and research the world, may alter our understanding of what exists. At the same
+time, an appreciation that the world is changing, and therefore that ‘ontology’ is
+changing regardless of the theories we have about it, is an equally important factor in
+arriving at social explanations.
+
+The relationship between what exists and the certainty of our theories about
+social reality has been cause for many hundreds of volumes in sociology, so much
+
+ontology
+
+The study of ‘what exists’. In
+sociology, many entities have
+been advanced as being the
+Most important ‘ontologies’ for
+developing a general theory of
+society, including individuals,
+classes, groups, discourses and
+institutions.
+
+epistemology
+
+The study of ‘how we know’
+what we are studying. This area
+of sociology is concerned with
+the ‘methodology’ of the social
+sciences. Is sociology a ‘science’
+in the same way as the natural
+sciences are? How does
+sociology overcome the
+problem that the researcher is
+part of the social world he or
+she is examining? Can sociology
+be value-free or theory-neutral?
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+2) AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+LO1 Describe the field
+of investigation that
+sociology studies
+
+inequality
+
+The uneven distribution
+
+of wealth and power in
+society. Such distribution is
+patterned according to the
+division of definite groups and
+classifications, including class,
+gender, ethnicity and race.
+
+power
+The study of power has
+become a centrepiece of
+modern sociology. In some
+perspectives it replaces concern
+with the study of inequality.
+The main debate about power
+is that between ‘agency’ and
+‘structure’'—how much agency
+individuals have, as opposed to
+the constraints imposed by
+larger social forces that they
+must endure.
+
+LO2 Explain how
+sociology’s concern
+with inequality and
+
+power is linked to
+social reproduction
+
+and social change
+
+so that the ‘sociology of knowledge’ has become a branch of sociology in its own
+right. This vexed and problematic relationship between theories and facts, descrip-
+tion and explanation, is common to all areas of knowledge. For sociology, however,
+the relationship is unique. It differs from other areas of knowledge in one very
+important respect: it is about humans studying themselves. Sociologists are part of
+the very object of study that they examine. For this reason, studying sociology
+potentially entails what is called an ‘epistemological circle’: in other words, it is
+impossible for a researcher of human affairs to be value-free, because his or her
+personal values will distort or obscure the reality being investigated. Methodologically,
+therefore, sociology has sought to overcome this dilemma of how a researcher can
+strive for objectivity, or indeed whether such an aim is achievable at all, a matter to
+which we shall return.
+
+Mi WHAT DOES SOCIOLOGY STUDY?
+
+At its most ambitious, sociology attempts to understand human societies from a
+wholistic point of view—what they are composed of, how they are reproduced over
+time and how they might differ from other societies. From the point of view of this
+more general understanding, sociology also looks at the way societies are divided
+according to a range of types of individuality and group identities.
+
+Fundamentally, this means examining the nature of inequality in society, the pat-
+terned ways in which groups and individuals are not only differentiated but are
+accorded different positions in the social hierarchy. Of course, as an academic exer-
+cise it is possible to differentiate societies in all kinds of arbitrary ways. We can dis-
+tinguish between those who walk to work and those who drive, between those who
+wear denim and those who do not, between those who listen to radio and those who
+prefer to read newspapers. What is important for sociologists is not classification as
+an end in itself, but particular divisions that influence people’s access to social power
+and social identity.
+
+The most important markers in this regard are class, gender, race, ethnicity, age
+and sexuality. Whereas the other ways of differentiating persons and groups strike
+us as arbitrary, sociologists have been concerned to show how the patterning of
+power and inequality in society at large is conditioned by systemic or structural
+realities related to these particular markers. To the extent that some inequalities can
+be shown to be systemic, sociology is able to reveal how such inequalities are repro-
+duced over time, as well as the degree to which they exist beyond the control of
+individuals.
+
+Inequalities in class, for example, have been tied to the historical reproduction of
+feudal and capitalist societies as systemic social formations. Inequalities in gender—
+the way in which society assigns certain properties and rights to men and others to
+women—have been linked to patriarchy, as the structural condition that maintains
+this form of inequality. The uneven but persistent inequalities of race and ethnicity
+are related to the legacy of colonial domination of much of the world by predominantly
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+CHAPTER 1 WHAT IS SOCIOLOGY? r 2)
+
+European civilisation, and the establishment of empires of control. As discussed in
+Chapter 5, the need for migration—itself a legacy of colonialism—is interwoven with
+the systemic nature of ‘globalisation’.
+
+As we shall see, while ‘system’ theory gives us a broad canvas on which to contex-
+tualise so much of social life, often it can only partially explain individuals’ different
+experiences of these ‘systems’. The gap between the macro and the micro is often
+quite wide. To begin with, none of these systems occurs in isolation; rather, they are
+overlaid and intersect to produce different social ‘shapes’. Second, the effect of these
+systems on individuals may be uneven. While most people will accept the class posi-
+tion they find themselves in, or adopt roles that conform to gender stereotypes, there
+are also many exceptions. For example, some people refuse stereotypes, try to move
+out of their class or, if they cannot do that, perhaps seek to challenge the class system
+or join a social movement (such as the feminist movement).
+
+This means that sociology cannot claim that all social phenomena are derived from
+some system or other, but must also examine the more specific situations that form
+persons and groups in the first place. Sociology looks at how a diversity of experience
+goes into making up a society at large, not only at how social structures determine the
+forms of experience and individuality that occur within it.
+
+There is another crucial factor we have not yet mentioned—that of social change.
+We can theorise the large picture, the individual picture and their interrelationship,
+but we must also strive to understand how these realities change over time.
+
+We live in an era in which it has become more challenging than ever to explain the
+world. It is an era of unparalleled technical achievement, an incredibly vast and com-
+plex global division of labour, and electronic assemblies on an unprecedented scale.
+As discussed in Chapter 14, online social networking now connects over two billion
+people, and mobile phones have outnumbered landlines as the preferred mode of
+person-to-person connectivity.
+
+The mobile phone has both shrunk and enlarged our world, from the very personal
+settings in all of our smart apps and social media platforms, to allowing us to reach
+out to a global stage of connection and ‘virtual travel’.
+
+Through such media, our sense of connection is transforming our social setting
+at a rate that is difficult to map. But at the same time, surrounding ourselves with
+technological environments has led to a denaturing of the life-world. Cities have
+become hothouses for this disconnection from nature as, in 2007, for the first time,
+more of the world’s population had become residents of megacities than rural
+areas.
+
+What is perhaps the greatest challenge to arise from such change is few individuals
+are aware of the way we are changing the earth’s climate at a rate 10 000 times natural
+rates. While we live as creatures of technological micro-worlds and urban conven-
+ience, the earth is hurtling towards dangerous climate change (see Chapter 15) that
+may prove to be the ultimate limit to economic growth, to technological progress and
+to human habitation of the planet itself.
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+o& AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+LO3 Describe
+
+the origins of
+
+the sociological
+imagination and
+the different forms
+it has taken
+
+sociological
+imagination
+
+A kind of interpretive
+imagination that does not
+treat its subject matter like
+objects in the natural world.
+The sociological imagination
+is anthropological, historical
+and critical.
+
+lm HOW DOES SOCIOLOGY STUDY? THE SOCIOLOGICAL IMAGINATION
+
+Sociology has come a long way from the ideas of the 19th-century thinker Auguste
+Comte. Comte founded the discipline as a science that would allow us to control his-
+torical and social reality. His famous maxim Prevoir pour pouvoir, “To be able to
+predict is to be able to control’, is the kind of view of knowledge that in many ways is
+the antithesis of the sociological imagination as we know it today. Most importantly,
+this is because sociologists today reject Comte’s habit of treating human beings as
+though they were objects in the natural world (a view known as positivism). (For a
+review, see Keat & Urry 1975.)
+
+Sociology does not proceed with the analytical tools of the natural sciences but has
+its own unique methodological approaches—what C. Wright Mills has called ‘the
+sociological imagination’ (Mills 1983). The sociological imagination confronts the
+fact that human societies and the individuals within them are transient, changing and
+situational. The objects of study in sociology are not fixed, and their appearance
+depends on the perspective of the observer. The latter feature of sociological inquiry
+relates to the fact that sociologists are necessarily a part of the object that they study.
+They necessarily interweave the significance of their own place within society with
+their study of society in general. This is why, for Mills, a persistent reflexivity is
+needed by sociologists in order to put into perspective the way they themselves have
+been shaped by their society. To do this, sociologists must understand ‘what is hap-
+pening in themselves as minute points of the intersections of biography and history
+within society’ (Mills 1983: 14). This reflexivity requires the researcher to minimise
+his or her own subjective ‘biases’, but it also provides an appreciation of history and
+society at their most abstract. The sociological imagination ‘is the capacity to range
+from the most impersonal and remote transformations to the most intimate features
+of the human self—and to see the relations between these two’ (Mills 1983: 14).
+
+Since Mills wrote his book, these local contexts of social life have been described
+as the ‘life-world’ and the study of them as the ‘sociology of everyday life’. Alternatively,
+the world of structural issues is often paired up with ‘systems theory’ or, more ambi-
+tiously, ‘grand theory’. However, Mills’ persistent point is that to consider one with-
+out the other amounts to a feeble avoidance of the sociological imagination.
+
+As previously mentioned, the sociological imagination is distinguished from other
+modes of inquiry because it studies individuals and the organisation of human expe-
+rience, and not objects in the natural world. All manner of implications arise from
+this, some of which we will cover throughout this book, including the dilemma of
+whether or not it is appropriate to study human action independently of the mean-
+ings that are attached to it.
+
+This brings us to a second feature of sociological inquiry: the fact that it is interpre-
+tive—or ‘hermeneutic —and not instrumental. It does not study meaning and action in
+order to regulate or control it. That is, sociological inquiry is not constrained by instru-
+mental goals. The idea of instrumental knowledge or rationality comes from another key
+figure in sociological thought, Max Weber. He was the first to emphasise the distinction
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+CHAPTER 1 WHAT IS SOCIOLOGY? r 2)
+
+between instrumental and interpretive reason. Instrumental reason is anti-philosophical
+in that it is preoccupied with achieving an objective according to an extremely tightly
+defined set of criteria. When provided with a ‘given’, instrumental rationality will find
+the best technical means of coming up with a solution. But do not ask instrumental
+rationality to interpret anything. The sociological imagination, on the other hand, is not
+guided by an end to knowledge. It addresses a world without constraint.
+
+To say that the sociological imagination is interpretive is also to point out how it
+tries to investigate beyond the outward appearance of social life. In doing so, most
+sociology is wary of taking events and discourses at ‘face value’. Indeed, some soci-
+ologists have aptly been described as ‘hermeneuts of suspicion’ who study the inner
+systems within society.
+
+From here the theses and questions about society begin rapidly to multiply. Where
+does one society end and another begin? Where are the boundaries of these societies?
+Are there any boundaries at all? In dividing societies into depth and surface, essence
+and appearance, are we describing the actual form of society (‘ontology —that socie-
+ties just are that way), or is this an epistemological move designed to allow us to think
+we better understand the social world? On the other hand, what if there are inner laws
+of social organisation determining everything we do, our life chances, how others
+think of us and so on? Is it not then important to question what these laws are?
+
+And what is the status of ‘essence’ and appearance? Does the familiar ‘appearance
+of things’ hide the less familiar essence—the inner logics and laws of society?
+Alternatively, does the essence of that society (for example, ‘rationality’, economics,
+discourse) ‘produce’ the appearance? And finally, aren’t appearances convincing?
+(Indeed, advertisers claim that appearances are everything.) And, if they are convinc-
+ing, are they not as real as, or more real than, the presumed inner laws that lie at the
+base of social organisation?
+
+The idea that central organising ontologies are responsible for the diversity of
+experience we encounter and live is difficult to prove. To investigate such structures,
+sociology has recourse to a number of kinds of research. In the early 1980s, the British
+sociologist Anthony Giddens proposed three kinds of sociological imagination that
+enrich our understanding of social structure—historical, cultural and critical
+(Giddens 1988).
+
+Kinds of sociological imagination
+
+As we have seen, modern sociology seldom engages in social forecasting. Karl Marx,
+another key figure in the founding of sociology, provides a model case of this. For
+example, despite the thousands of pages commentators have devoted to Marx’s
+remarks prophesying the coming of a ‘communist’ society, the truth remains that of
+the 61 volumes he authored (or co-authored with Engels), only 15 pages are devoted
+to the possibility of a future communist state. Most of these pages were in political
+pamphlets, written as journalism rather than social analysis. Marx’s Capital, for
+example, merely analyses hundreds of years of European human history. However,
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+r 2) AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+while predicting social futures may be neither possible nor desirable, it is nevertheless
+possible and desirable to seek to understand the present.
+
+The object of most sociological analysis is present-day society, the understanding
+of what is going on around us. In assuming such a focus, sociology does, however,
+share some commonalities with history and anthropology. The simplest way to
+understand the society in which we live is to contrast it either in time or in kind.
+History can teach us how what we take for granted today has not always been the case,
+whereas anthropology can show us societies different from our own as a way of dem-
+onstrating the contingency and idiosyncrasy of all societies.
+
+For the sociological imagination to be reflexive, it is not enough to examine our
+own society; we must try to look at other societies from radically different times and
+places. It is only through defining what our own society is not that we can truly begin
+to describe its character.
+
+A good example of this we can take from Michel Foucault, one of the thinkers we
+will be studying in this book. His methodological approach ofa ‘history of the present’
+serves as an excellent illustration (and has been taken up by historians, sociologists
+and cultural analysts alike). Foucault proposed that the purpose of history is to study
+the past not as an end in itself, but as a way of reflecting on the present. That is to say,
+traditional history imagines it is speaking about the past, but for Foucault, and in the
+majority of cases, it is really superimposing the ‘discourses’ (ways of thinking and
+speaking) of the present on the past. Foucault aims to reverse this logic. He says in his
+book on disciplinary power, Discipline and Punish (1979: 26): ‘TI would like to write a
+history of [the] prison, with all the political investments of the body that it gathers
+together in its closed architecture. Why? Simply because I am interested in the past?
+No, if one means by that writing the history of the past in terms of the present. Yes,
+if one means writing the history of the present.’
+
+Foucault captures, in a trice, the import of the historical domain of the sociological
+imagination. His studies proceed by showing how strange and different past societies
+and cultural formations have been, and in doing so disturb all that is comfortable in
+categories by which we ‘live’ present-day social conditions. This is not to propose that
+historical reality can be known ‘exactly as it was’; it is to avoid merely reinstating the
+orthodoxies of contemporary thinking by applying them to other times and places.
+
+Historical analysis is an indispensable aid in the task of explaining the present
+conditions of contemporary society. Indeed, it was a method used by the founders
+of sociology in the 19th century, whose strengths lie in contrasting traditional and
+modern society.
+
+In the 20th century the discipline of anthropology emerged as a way of exploring
+the contrasts between different cultures. Anthropology is a discipline that is often
+partnered with sociology in a university department, and it provides most of the
+methodological basis for what is called “comparative sociology’. Comparative sociol-
+ogy allows us to understand ‘other’ cultures in organised ways. Other places, other
+ethnicities, other nations and other identities become conduits through which we can
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+CHAPTER 1 WHAT IS SOCIOLOGY? r 2)
+
+understand ‘ourselves’. Of course, here a great number of challenges and tensions are
+introduced. Understanding difference can result in a worldly appreciation of culture,
+but it can also be cause for insecurity in our identity. In a globalising world such a
+confrontation may grow more acute, leading to xenophobic forms of nationalism
+which appeal to an ethnocentric, one-dimensional world of homogeneous identity.
+At the same time, the concern that some members of society may have about ‘others’
+and otherness can dissipate as tourism, migration, commodity exchange and global
+media conspire in the creation of what has been called a ‘global fugue state’ (Ostwald
+2001). In such a period the behaviour of an ever-increasing proportion of the world’s
+population becomes in a sense ‘touristic’, without even the need for travel. The global
+in-mixing of culture may become generalised to the point where it becomes more
+difficult to find an Other at all, as all culture is engaged by a law of the Same.
+
+In the current period of cultural globalisation, therefore, the concept of culture is culture
+a fraught one. As analysed in Chapter 13, the commonsense notion of culture as tied tnowlege, even
+exclusively to ethnicity is problematised. As capitalism spreads over the globe it tends shared by members ofa
+to destroy most senses of ethnic culture in its wake, and to replace these with the cul- {Shmery gender seat,
+ture of capitalism itself. Industrialisation, informationalisation, consumerism and _ indigeneity, age, disability).
+McDonaldisation are each ‘cultures’ of their own kind. They uproot so many of the
+traditions necessary for many ethnic cultures to survive.
+
+Capitalism first emerged in Europe and expanded in the waves of imperialism that
+came out of Europe over hundreds of years. It is only in the 20th century that one of
+the former colonies of Europe, the United States itself, assumed the centre of imperi-
+alist power. The dominance of the US economy and political apparatus, as well as its
+military and media imperialism in world affairs, has had a dramatic impact on every
+region of the world. As discussed in Chapter 14, American serial dramas and soap
+operas are played throughout Europe, Asia and the third world. At the same time,
+approximately 75 per cent of World Wide Web traffic is sourced in the United States.
+The influence of such concentrations of media dominance can be seen in the rapid
+evaporation of the world’s languages. There are currently 6000 languages in the
+world, which are disappearing at the rate of over 100 per year. It is estimated that by
+2040 only 600 languages will remain, the most dominant of which will be English.
+
+These trends in cultural globalisation compel us to reconsider the distinctiveness
+of Australian culture, itself a legacy of European imperialism but at the same time
+such a relatively young colony that its white population has barely developed an iden-
+tity significant enough to justify feeling threatened by globalisation. If there are any
+Australians who have been displaced, dislocated and uprooted from their traditional
+identity, it is Australia’s Indigenous peoples (see Chapter 3). The confrontation
+between black and white Australians, between a culture 40 000 years old and a colony
+of Europeans and Asians who came to a New World, is much more profound than
+that between 21st-century Australia and the rest of the globe.
+
+The contrast between the colonised and colonisers is so wide as to make recon-
+ciliation a seemingly unachievable task. For black and white to understand each other
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+2) AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+ideology
+
+Aset of socially determined
+beliefs, values and opinions
+that Marxists have suggested
+function towards maintaining
+and ‘naturalising’ the ‘status
+quo’. Together with education,
+legal and political apparatuses,
+the media is one of the most
+central institutions with a role
+in the circulation of ‘dominant’
+ideologies. In relation to media,
+John B. Thompson (1990: 6)
+has usefully defined ideology
+as ‘meaning in the service
+
+of power’.
+
+requires an appreciation of cultural relativity—an attempt to understand the ‘other’
+culture from the point of view of its own norms and values. Of course, such an exer-
+cise is necessarily limited by the fact that ‘we’ (a ‘we’ that might be black or white) can
+never quite ‘live’ what it means to belong to another culture; but at least we can be
+sensitive to our differences and avoid imposing judgements that have no place in the
+social world of others.
+
+Perhaps the greatest insight that is arrived at in comparing one’s culture with that
+of another is a realisation that social reality is not given, but is constructed in fragile
+contingent and inessential ways. To recognise that other cultures might organise and
+differentiate their societies in radically different ways is to perceive equally how the
+content and structure of one’s own culture is arbitrary. It could be organised in an
+infinite number of other ways. Usually, however, this sense of culture derives from
+intersocietal comparison. Also we need to mention how cultural difference operates
+within the same society.
+
+In almost every society it is possible to discern dominant cultures and minority
+cultures or ‘subcultures’. The dominant culture is usually identifiable by a dominant
+ideology through which definitions of social reality are produced and naturalised. On
+the other hand, by their mere existence, minority cultures often present a challenge to
+the right of the dominant culture to dominate.
+
+Studying minority cultures and subcultures is an extremely revealing exercise for
+sociologists to undertake, because in the process the nature of the dominant culture
+becomes ever more visible. This is particularly true in times of social conflict, when a
+dominant order is threatened. Never is a structure more visible than when it is under
+threat—whether we are speaking of a political, economic or social structure. New
+trends in art, music and street culture implicitly comment on ‘mainstream’ culture
+and its orthodoxy. Likewise, protests, strikes and demonstrations nearly always point
+out injustices that reverse the way in which dominant ideologies naturalise inequality.
+
+At the same time, as discussed in Chapter 9, mainstream culture often tries to label
+different groups as deviant in order to reaffirm its power. The important point in both
+these processes of differentiation, by minority or majority groups, is that the socio-
+logical imagination cannot be content to make intersocietal or historical comparisons
+only. The actions and attitudes of individuals are shaped also by interaction within
+and between groups in the same society. For this reason, it is necessary to understand
+the internal structure and composition of our own society.
+
+The turn inward to our own social formation gives us the critical dimension of the
+sociological imagination. In conducting critical analysis, sociologists must constantly
+question their own assumptions and justify the relationship they establish between
+evidence and conclusion. Here the question of the value of freedom comes up again.
+When sociologists attempt to get at the ‘facts’, to what extent do their own value
+judgements determine which ‘facts’ are selected and which are ignored? And what is
+a fact in the first place? Do facts simply wait to be uncovered prior to our investigation
+of them? What is the relationship between theories and facts?
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+CHAPTER 1 WHAT IS SOCIOLOGY? r 2)
+
+Recent work in the methodology of the social sciences has questioned the idea that
+facts exist independently of theories, that there can be a theory-neutral experience of
+the world. This view relies on a separation of ‘theories’, as the invention of thinking,
+and facts, which are deemed to exist objectively. This latter view is a commonsense
+one most of us hold, and is known as empiricism. Empiricism is a theoretical approach
+and should be distinguished from ‘empirical’, which refers to the practice of research-
+ing the world of social objects, common to all species of sociology. Empiricism often
+entails a correspondence theory of truth, the idea that an investigation aims to mirror
+the ‘real’ world with accurate description.
+
+Paradoxically, empiricism is so prevalent in Western societies that it is rarely even
+thought of as a theory. For this reason, ‘collecting facts’ seems to be a quite innocent
+pre-theoretical exercise. However, critics of empiricism point out that the selection
+and conceptualisation of facts is made possible only by a pre-theoretical understand-
+ing that makes certain facts significant in the first place. Moreover, it is the theory—
+an abstract way of differentiating the social world into elements and the relations
+deemed to exist between these elements—that makes facts visible as facts.
+
+This criticism of empiricism as the dominant ‘Western metaphysic’ has enormous
+implications for studying social relationships. To the extent that such a criticism
+holds sway, it is not valid for sociologists to propose that they have an ‘objective’
+method. This is because, before any investigation begins, all sociologists employ some
+kind of theoretical framework, explicitly or implicitly, whether or not they are aware
+of it. Even if they reject the idea of using a theoretical perspective, they are ipso facto
+subscribing to an empiricist approach.
+
+This is not to say that there is no point in doing research any more because it will
+always be ‘biased’ by a theory. Rather, it is important that the coherence of the theory
+and the object it investigates be checked continuously. Theories may rapidly become
+irrelevant as the field of investigation changes. Alternatively, what used to be regarded
+as immutable ‘facts’ may be replaced, or disappear, as the theory itself becomes refined.
+
+This does not mean that we ought to switch our theories continuously. Usually
+they need to be modified, but a theory may hold up over a very long period of time.
+For example, insofar as it can be demonstrated that Australia is a capitalist society, it
+is entirely appropriate to engage theories of capitalism (Marx and Weber) that main-
+tain a relevance long after their authors have died. If, however, Australia ceased to be
+characterised by the central features of capitalism that were theorised over 100 years
+ago, it would be dogmatic to seek to apply such a theory to that society.
+
+Thus, the critical domain of the sociological imagination calls on us to maintain
+this labour of checking, or checking back and forth, between the theories we are using
+and the meanings, events, processes and structures in the social world.
+
+The politics of the sociological imagination LO4 Explain how the
+
+methods employed
+To the above three kinds of imagination—the historical, the comparative and the agination hove,
+
+critical—we can add a fourth domain—politics. If it is impossible to be theory- _ political implications
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+2) AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+independent in one’s observation of the world, it goes without saying that every
+sociological statement, no matter how modest, also involves a commitment to a cer-
+tain world-view and serves a definite interest of individuals and groups within its field
+of view. Consequently, sociology is a key discipline with an influence in practical
+policy formulation and social reform.
+
+A number of ways to conceptualise this convergence between ‘theory’ and ‘prac-
+tice’ are outlined below.
+
+Convergence between theory and practice
+
+Sociology as an instrumental discipline
+
+Some sociologists, particularly those coming out of the American tradition of
+‘functionalism’, argue that sociology should not be an analysis of society but an analy-
+sis for society. (For an appraisal, see Fay 1975.) Which is to say that sociology should
+be used as a tool for repairing society's problems, to assist the state in the better regula-
+tion of social functions and guarantee the smooth running of society (see Chapter 16).
+Of course, what the ‘problems’ are varies within this tradition. Some argue that social
+policies should tackle overcoming the deep inequalities that exist in so many nations
+around the world, while others see these inequalities as immutable and think sociology
+should focus on making the best of managing them, including their pathologies.
+
+For example, in the United States, in the management of the most deprived mem-
+bers of society, such as the 2.1 million persons incarcerated in prisons, there has lately
+been a turn away from interpretive sociology to criminology as the most important
+focus of sociology. At the same time the sociology of work, the family, health and devi-
+ance are each at the forefront of the instrumental approach to ‘managing’ society.
+Every year these disciplines are studied by over one million Americans at university.
+Developed by the sociology of family tradition in the United States, some of the termi-
+nology has even passed into everyday use, such as ‘dysfunctional’ (‘the dysfunctional
+family’), a direct offspring of functionalist sociology. In Australia, the instrumental
+approach to sociology has been historically more progressive, and has aimed at mend-
+ing social ills and inequalities. In the late 1990s, however, government departments in
+Australia became selective about using particular sociological policy formulations, in
+policies such as ‘work for the dole’ and ‘mutual obligation’. Approaches such as ‘action
+research’, a composite of networking, researching and educating organisations, have
+been used and continue to be used by government departments to improve their qual-
+ity and performance. However, this latter kind of research, credentialled as ‘sensitive
+social science’ in the United States and used widely within the Australian state, attends
+to the internal dynamics of an organisational culture, not to how that organisation
+relates to society in general or to wider inequalities and changes.
+
+Sociology as permanent critique
+
+Partly as a reaction to the excessive instrumentalisation of sociology during the 20th
+century, a recent addition to sociological critique is postmodern sociology. It seeks to
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+CHAPTER 1 WHAT IS SOCIOLOGY? r 2)
+
+preserve a sense of the ‘critique of society’ and has been very critical of any attempts
+to appropriate sociology as a handbook for ‘engineering’ society. Postmodern sociol-
+ogy, which has been influenced most profoundly by 20th-century continental intel-
+lectual traditions (especially the French traditions, which have been imported as
+‘postmodern’ in the United States and elsewhere, although French sociologists often
+reject the term being applied to them: see Chapter 16), has expressed immense indig-
+nity and contempt for any form of knowledge that proposes to ‘speak for others’
+(Foucault & Deleuze 1977: 209).
+
+Such contempt is understandable in the context of French society, which is par-
+ticularly afflicted by technocratic procedures. But in nearly all Western societies,
+sociologists have tried to grapple with instrumental and ‘governmental’ forms of dis-
+ciplinary power. For many postmodernists the critique has extended to education
+(J.F. Lyotard), the media (J. Baudrillard), the family (J. Donzelot), and psychology and
+sociology itself as ‘normalising’ disciplines (M. Foucault). For Foucault, the human
+sciences and European ‘humanism’—a particular style of subjectivity in which indi-
+viduals police their own behaviour—have colluded in the normalisation, surveillance
+and discipline of populations in Western societies for over a century.
+
+Against such a movement, Foucault advances what he has called an ‘ethos of perma-
+nent critique’ (Foucault 1984: 42). Foucault’s method is never aimed at yielding fixed
+truths but ‘demands relentless erudition’ (Foucault 1977: 140). Foucault views this
+ethos as a valuable legacy of the Enlightenment (which is in tension with other elements
+that propose triumphal kinds of knowledge). Foucault argues that any critique of
+present-day societies is necessarily limited: “The critique of what we are is at one and
+the same time the historical analysis of the limits that are imposed on us and an exper-
+iment with the possibility of going beyond them’ (1984: 50). We must constantly ques-
+tion historical limits in order to separate ‘what is given to us as universal, necessary,
+obligatory’ in a particular period from ‘what place is occupied by whatever is singular,
+contingent and the product of arbitrary constraints’ (Foucault 1984: 50). It is then pos-
+sible to assess ‘what limits knowledge has to renounce transgressing’, not in order to
+develop an instrumental theory as a tool of control but to resist that which confronts us
+as obligatory. There is no point in resisting what is arbitrary, but it may easily be con-
+fused with the universal unless we permanently question our historical situation.
+
+Sociology and social reproduction
+
+All sociologists have affinities with postmodern sociological views about the role of
+criticism, to some degree. Many sociologists see their role as providing critique and
+reflection. Given how few areas of capitalist culture provide for such an activity, it is
+important that sociology and its collegial disciplines in the social sciences maintain
+the practice of criticism. At the same time, some sociologists view ‘postmodern’ soci-
+ology as an overreaction to the contemporary state and organisational bureaucracies.
+Complex societies are capable of all kinds of crises and obviously need to be admin-
+istered and governed in order to avoid social disorder. Postmodern sociologists have
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+2) AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+been accused of equating a particular characteristic of modernity—state control—
+with society in general. In this they develop post-social accounts of the world that
+refuse to be reduced to any kind of program that might lend itself to large-scale social
+reform. Often this is expressed as theoretical individualism—what has been described
+as ‘an ethic of constant disengagement from constituted forms of experience’
+(Rajchman 1985: 37). It is well to have ‘indignity for speaking for others’ in the face
+of bureaucratic intellectuals prescribing for others their social needs, but the question
+of whether it is only bureaucrats and their peculiar kind of rationalism who are doing
+this ‘speaking’ remains.
+
+Then there is the question of structure, and of the fact that structures may also
+prescribe for us our identity, our opportunities and our value systems. How do we
+know what these structures are unless we inquire into them? And if we do not know
+what they are, how do we know what needs to be changed and how these changes can
+be achieved? These questions are all endemic to what has become known in sociology
+as the structure versus agency debate, where ‘structure’ refers to the social determina-
+tions that antedate the individual and ‘agency’ denotes the power individuals have in
+structured contexts.
+
+More important even than structure, however, is how such structures are repro-
+duced over time. How is it that the positions that individuals occupy in a structure
+might change, yet the structure itself retains the same form from day to day, year to
+year, decade to decade? One argument that emerges here is that to understand how a
+structure is reproduced (for example, a class structure or patriarchal structure) is to
+understand its innermost workings.
+
+This has led some sociologists, such as Pierre Bourdieu (1930-2002), to focus on
+practice as a starting point for understanding social life (see Bourdieu 1987: 1-30).
+Bourdieu argues that sociologists cannot understand structures merely theoretically.
+Rather, in understanding the social practices that both reproduce and threaten social
+structures we can begin to unravel them. To go back to our discussion of ontology, it
+is not enough to understand ‘what exists’ in isolation; we have to understand what is
+possible as a path to what exists. Any theory that provides this account is, ipso facto,
+an adequate theory of the reproduction of these practices and, more importantly, of
+their non-reproduction. When it is known by experience which practices threaten
+prevailing social structures to the point where they would cease to be structures, then
+
+social change those structures become more tangible. The theory that results is valid to an extent: if
+The process of historical jt guides our actions towards social change, it succeeds in practically transforming
+
+such change nay ene tom the social reality it addresses.
+‘incremental’ and gradual to The focus of social and cultural reproduction that characterises Bourdieu’s per-
+
+revolutionary and abrupt. . . to. . . . . .
+
+The most important areasot Spective is an attempt to overcome the distinction between subjective and objective
+Change etn ed by eent kinds of knowledge. Both are important forms of knowledge in unravelling the prob-
+sociologists are from industrial lem of social reproduction. Theories need to be generated from empirical research,
+t0"postindustral society, fom — ut they also need to be tested in practice for us to be reassured of their validity. The
+
+Modern to postmodern, and
+from ‘middle’ to ‘late’ capitalism. direction of that practice becomes a key question here. Whether this practice should
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+CHAPTER 1 WHAT IS SOCIOLOGY? r 2)
+
+be oriented towards organisation reform, policy formulation, social reform, political
+protest or an entire social revolution is a matter for social actors to determine.
+
+The importance of comparing perspectives
+
+Questions about the society in which we live—its future, our roles and responsibilities
+in it, the way it functions and changes—are questions that we confront in our public
+and inner lives. As the world becomes integrated through the expanding communica-
+tion revolution, we live in an increasingly multicultural and multidimensional envi-
+ronment. Understanding this complexification of the life-world has become an
+urgent task. Sociology gives us powerful perspectives through which to view the
+present and to examine critically so-called commonsense explanations of social inter-
+action and social structures.
+
+Whether we are concerned with social change (no matter how modest) or merely
+understanding the society we live in, sociology offers a vast range of perspectives by
+which to achieve these aims. Just as we can compare different societies to gain knowl-
+edge of our own, it is important that we learn to compare the different perspectives
+available to sociology, as a way of establishing the coherence of our analysis of the
+field we are investigating.
+
+CONCLUSION
+
+Throughout this book you will be introduced to a range of sociological perspectives, and encounter systems
+of thought ranging from the 19th-century ‘founders’ of the discipline to recent contemporary theoretical
+movements, such as post-structuralism, postmodernity and deconstruction. To ‘know thy perspectives’ and be
+
+able to ground any given text in one or more of the perspectives that sociology employs is the most valuable
+aid in steering your way through this very broad discipline. For example, to be able to link a particular thinker
+
+to one or more perspectives helps clarify why that thinker presents his or her field of inquiry in a certain way.
+It also enables the scholar to make informed judgements of whether the approach employed is appropriate or
+instructive. Matching up a field of inquiry with a sociological perspective that can engage with itis a difficult
+task, and in doing so as researchers we invariably modify our own theoretical positions and premises.
+
+® @ @ @ @ @ @ @ @ @ @ © @ 6 6 © 6 6 GC 6 6 6 6 6 6 OC eC 6 ee 6 eC ee 6 6 eC ee
+
+CRITICAL THINKING QUESTIONS
+
+1. What is the link between ontology and epistemology in defining the field of
+
+sociology? (LO1)
+
+2. Is ‘inequality’ necessary? How is it linked to social reproduction and social change? (LO2)
+
+3. Which of the different kinds of sociological imagination are useful in the 21st century? (LO3)
+What are the main topics of social change that have altered the nature of sociological
+inquiry? (LO4)
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+16 ( SOCIOLOGY: A CHANGING SOCIETY
+
+Berger, P. (1976) Invitation to Sociology, Harmondsworth, UK, Pelican.
+
+Bourdieu, P. (1987) Outline of a Theory of Practice, trans. R. Nice, New York, Cambridge University Press.
+
+Fay, B. (1975) Social Theory and Political Practice, London, George Allen & Unwin.
+
+Foucault, M. (1977) ‘Nietzsche, Genealogy, History’, in D.F. Bouchard (ed.), Language, Counter-Memory, Practice,
+Ithaca, NY, Cornell University Press, pp. 139-64.
+
+Foucault, M. (1979) Discipline and Punish: The Birth of the Prison, trans. A. Sheridan, New York, Vintage Books.
+
+Foucault, M. (1984) ‘What is Enlightenment?’, in P. Rabinow (ed.), The Foucault Reader, New York, Pantheon,
+pp. 32-50.
+
+Foucault, M. & Deleuze, G. (1977) ‘Intellectuals and Power’, in D.F. Bouchard (ed.), Language, Counter-Memory,
+Practice, Ithaca, NY, Cornell University Press, pp. 205-17.
+
+Giddens, A. (1988) Sociology: A Brief but Critical Introduction, 2nd edn, London, Macmillan.
+
+Keat, R. & Urry, J. (1975) Social Theory as Science, London, Routledge & Kegan Paul.
+
+Mills, C.W. (1983) The Sociological Imagination, London, Pelican.
+
+Ostwald, M. (2001) ‘Identity Tourism’, in D. Holmes (ed.), Virtual Globalisation: Virtual Spaces/Tourist Spaces,
+London, Routledge, pp. 192-204.
+
+Rajchman, J. (1985) Michel Foucault: The Freedom of Philosophy, New York, Columbia University Press.
+
+Thompson, J.B. (1990) Ideology and Modern Culture, Cambridge, Polity.
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+CHAPTER 2
+
+CLASS
+
+\PTER OUTLINE
+
+This chapter elaborates the discussion of inequality already outlined by investigating the
+fundamental concept of ‘class.
+
+The empirical research on the existence of class in Australia is examined and interpreted.
+Doing so entails looking at wealth and income inequalities and how they have changed
+over time. We discover that, by a range of indexes, this inequality has increased over the
+past few decades.
+
+The main perspectives for examining patterned inequality—the Marxist and the Weberian
+accounts of class—are introduced and compared.
+
+The chapter differentiates and briefly examines the four classes that appear most often in
+the literature: the ruling or upper class, middle class, working class and underclass.
+
+Finally, consideration is given as to whether poverty in Australia can be examined
+separately from class analysis.
+
+learning outcomes
+
+By the end of this chapter you will be able to:
+
+LO1 Analyse the relationship between wealth and
+income inequality
+
+LO2 Describe the distinction between Marx's and
+Weber's analysis of class
+
+LO3 Distinguish between different classes in
+Australian society and the functions they
+perform
+
+LO4 Explain the controversies surrounding the
+‘poverty wars’
+
+LO5 Analyse how sociologists measure inequalities
+
+ht © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+
+@® AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+In outward form, or as far as most ordinary people know or care, Australia is the most
+egalitarian of countries, untroubled by obvious class distinctions, caste or communal
+domination, the tensions of racism and the horrors of autocracy ... The spirit of
+fraternalism permeates the nation ... Ordinary people are not concerned with the rich
+or the highly educated. What they want they can usually get—a house, a car, oysters,
+suntans, cans of asparagus, lobsters, seaside holidays, golf, tennis, fishing, gardening ...
+Australia has one of the highest per capita national incomes in the world ... there is
+the largest rate of home ownership in the world; there are more savings accounts than
+people ... Not only are very rich or very poor people rare; the average income is not a
+simple average, it is also close to the typical income.
+
+(Horne [1964] 1967: 19-21)
+
+This description of 1960s Australian society as a carefree consumer paradise,
+from Donald Horne’s The Lucky Country was written from the comfort of a very
+stable period of economic growth. It was easy to extol the virtues of liberal
+democracy in terms of its inclusion of all groups and all classes in the political
+process.
+
+In 2013, another commentator, Nick Cater, echoed Horne in his book, The Lucky
+Culture, praising Australia for its ‘overriding principle’ of a ‘fair go’, which he claimed
+pervades Australian social relations. He denied that there were any ‘institutional
+barriers’ limiting a person’s ability to get ahead (2013: 23). Cater argued that the only
+flaw in this fair-go paradise was that since Horne’s time an expanding tertiary-
+educated elite had come to consider itself culturally superior to ordinary Australians
+(2013: 24). This aspiration to get ‘above your station’ was ‘un-Australian’, Cater
+believed, reinforcing the argument that Australia remained fundamentally egalitarian
+in its character.
+
+One of the assets of the sociological imagination is that it endeavours to empiri-
+cally test these types of claims and the extent to which they hold over time. This
+chapter therefore explores the basis of class inequality in Australia. It describes how
+sociologists have measured inequality and how the dynamic nature of capitalism
+presents scope for competing perspectives on the nature of class inequality, all of
+which qualify claims that Australia is a classless society.
+
+Marxist sociologists would suggest that Horne and Cater only captured the appear-
+ance of a classless society, rather than the class realities that underpin capitalist
+Australia. This is because, as Kuhn and O’Lincoln (1996: 145) argue: ‘Capitalism is
+the first class system in history that pretends not to be one.’ For this reason, it is diffi-
+cult to see classes as easily as other kinds of social distinction. Weberians, for instance,
+would emphasise the importance of ‘status’ in ordering Australian society. Whether
+we look at the statistics on inequality in Australia or engage in the theoretical explana-
+tions of how these inequalities are reproduced, sociology is able to provide insights
+into class structure.
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+CHAPTER 2 CLASS @®
+
+lM MEASURING INEQUALITY LO1 Analyse the
+
+OOOO relationship between
+Opinion polls consistently reveal the relevancy of Horne’s and Cater’s claims that wealth and income
+
+Australians consider a ‘fair go’ to be a fundamental Australian value (see Herscovitch "°02""Y
+2013: 3-4). Furthermore, the idea that Australia is a class-based society is denied
+
+daily by the popular press and politicians of many persuasions. Whenever media-
+generated nationalistic sentiment is expressed, usually around a sporting event or on
+Australia Day, the familiar claim is paraded that Australia is an egalitarian society,
+characterised by ‘mateship’ and a ‘fair go’ (see Thompson 1994; Fiske, Turner &
+
+Hodge 1987).
+
+However, the rhetoric of equality becomes more problematic when basic measures
+of inequality in Australian society are considered. In what follows, various dimen-
+sions of inequality in Australia are presented—by wealth and income—before outlining
+various theories that have been advanced to explain such inequality.
+
+Wealth: Who owns what?
+
+Calculating wealth is not an easy task. It is usually achieved by modelling the most
+reliable measures of individuals’ or households’ composition of assets including cash,
+life insurance and trusts, property holdings, equities, trusts and superannuation, as
+well as non-financial assets such as cars and collectibles (see Finlay 2013).
+The first serious investigation into the ownership of wealth in Australia occurred
+in 1915; in it, the Commonwealth statistician showed wealth differentials to be much
+more significant than income differentials. Just 1 per cent of male adults owned
+30 per cent of the national wealth, and the elite 5 per cent owned 66 per cent of this
+wealth (Wheelwright 1993: 46). These extremes narrowed significantly between 1915
+and 1960 but began climbing again from the 1960s onwards (Western 1983;
+Baekgaard 1998).
+Recent statistics (see Table 2.1) drawing on data collected by the Melbourne
+Institute of Applied Economic and Social Research, University of Melbourne, known
+as the HILDA (Household, Income and Labour Dynamics in Australia) surveys
+(Wilkins 2013; see also RBA 2009 and Marks et al. 2005) found that while net house-
+hold worth increased for all quintiles of the population between 2002 and 2010, the quintile
+distribution of wealth remained highly unequal. The top 1 per cent of households by *?¢#down ofthe population
+on an ordinal scale from the
+2012 increased their wealth to an average $5.2 million (an increase of 45 per cent since _ towestto the highest 20 per
+2002), and the bottom 10 per cent of households increased their average wealth to ¢™unnie secant ants
+$9538 (an increase of 116 per cent). This suggests that wealth inequality decreased these are known as ‘deciles’
+between 2002 and 2010, mainly because the wealthiest are more likely to hold wealth
+in shares, which were hit harder than property and superannuation in the aftermath
+of the 2008 global financial crisis (Finlay 2013). Despite this, there remains a yawning
+gap between the least and the most wealthy in Australia. Using another data source,
+Stilwell and Primrose (2009) estimated that the top one-fifth of households on average
+own 40 times as much wealth as the poorest fifth.
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+@® AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+Distribution of household net wealth across all households (December 2010 prices)
+
+CHANGE FROM
+2002 2006 2010 2002 TO 2010
+
+AVERAGE NET WEALTH ($)
+
+Mean 495 496 686 641 683 694 38.0%
+Median 266 025 363 590 399'353 50.1%
+
+NET WEALTH AT DIFFERENT POINTS OF THE DISTRIBUTION ($)
+
+Bottom 10% 4397 7 767 9 538 116.9%
+Bottom 25% 62 818 84 374 93/175 48.3%
+Top 25% 621 274 791 922 851 425 37.0%
+Top 10% 1139 417 1 508 671 1551 743 36.2%
+Top 5% 1 692 260 2 268 594 2 303 266 36.1%
+Top 1% 3 561 661 5 090 818 5 183 353 45.5%
+
+TABLE 2.1 Source: Wilkins (2013: 74), Table 13.1, first and second panel. Reproduced under Creative Commons CC-BY
+Attribution 3.0 licence. © Commonwealth of Australia 2013.
+
+Income: Who gets what?
+
+Figure 2.1 presents a set of Lorenz curves, a measurement of inequality where the
+diagonal line represents perfect equality (in other words, any percentage of the popu-
+lation receives its proportionate share). As the curve moves further away from this
+straight line, this represents greater inequality. What these 2012 Australian Lorenz
+curves reveal is that wealth is more unequally distributed than income. This finding
+has been consistent over time and across countries.
+
+DES 5s") Wealth and income distribution in Australia, 2012
+
+100
+
+—— Equal distribution
+
+—— Income
+
+== Wealth
+
+Cumulative share of wealth or income (%) B
+
+20 T T T T
+(0) 20 40 60 80 100
+Cumulative share of households
+
+Source: Finlay, R. (2013: 3) <www.rba.gov.au/publications/bulletin/2012/mar/pdf/bu-0312-3.pdf>. © Reserve Bank of
+Australia. All rights reserved.
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+CHAPTER 2 CLASS @®
+
+Income-distribution surveys have been conducted at regular intervals since 1969
+(Commonwealth Bureau of Census and Statistics, CBCS 1973), and a number of stud-
+ies have attempted to estimate distribution in the first two-thirds of the 20th century
+(Jones 1975; McLean & Richardson 1986; Saunders 1993). In concordance with pat-
+terns of wealth distribution, the longitudinal account of patterns between 1915 and
+the turn of the 21st century indicated that income inequality declined between 1915
+and the 1960s, with the greatest period of income equalisation occurring after the
+1930s Depression. A further equalisation occurred between the late 1960s and the
+early 1980s (Saunders 2001). Since that time, income inequality has increased consist-
+ently, but not as acutely as inequalities in wealth. Table 2.2 shows that in 1994/95 the
+lowest-income quintile received only 7.9 per cent of income, whereas the highest
+quintile received 37.8 per cent. In 2007/08, these figures had declined to 7.6 per cent
+for the lowest quintile and increased for the highest quintile to 39.4 per cent.
+
+Percentage income share for income quintiles, 1994-2008
+
+INCOME INEQUALITY, 1994/95 AND 2007/08
+
+2007/08
+(EXCLUDING NEW
+
+INCOME SHARE 1994/95 COVERAGE ADJUSTMENTS)
+% %
+
+Lowest quintile 7.9 7.6
+
+Second quintile 12.8 12.7
+
+Third quintile 17.7 174
+
+Fourth quintile 23.7 22:9)
+
+Highest quintile 37.8 39.4
+
+TABLE 2.2 Source: Australian Bureau of Statistics (ABS) (2009) Household Income and Income Distribution, 2007-08,
+Cat. No, 6523.0, Canberra, AGPS. © Commonwealth of Australia.
+
+International comparison
+
+While the statistics examined in this chapter so far suggest income and wealth
+inequality within Australia, one of the principal claims made by commentators
+such as Cater is that Australia is comparatively more egalitarian than other coun-
+tries. However, a recent study by the Organisation for Economic Cooperation and
+Development (OECD) questioned this assertion. It examined the Gini coefficient Gini coefficient
+of 35 of the world’s wealthiest countries in the late 2000s (see Figure 2.2). Of the colt whee epee
+35 countries, Australia was the ninth most unequal, although this level of inequality perfectequaiity and1
+was similar to most English-speaking countries. Australia was slightly more equal "ses sue inequality.
+than the United States and the United Kingdom, but less equal than Canada and
+New Zealand (Greenville, Pobke & Rogers 2013: 100-1).
+Throughout the OECD countries in general, there has been a tendency for income
+inequality to grow over the past 20 years. For example, while the top 10 per cent of
+wage earners throughout the OECD achieved average income growth of 1.9 per cent,
+the bottom 10 per cent achieved 1.3 per cent growth. In Australia, the corresponding
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+@® AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+LO2 Describe the
+distinction between
+Marx's and Weber's
+analysis of class
+
+class
+
+Refers to either a ‘classification’
+of populations according to
+wealth and income, or toa
+generative power relationship,
+whereby the section of society
+that produces wealth is ruled
+over by another section that
+owns the means of generating
+the wealth.
+
+eS 484) Household Gini coefficients of selected OECD countries, late 2000s
+
+0.50
+0.45 +
+0.40 +
+0.35 4
+0.30 4
+0.25 4
+0.20 4
+On SiS)
+0.10 4
+
+Source: Greenville, J., Pobke, C. & Rogers, N. (2013), ‘Trends in the Distribution of Income in Australia’, Productivity Commission
+Staff Working Paper, March, Melbourne, Productivity Commission, Figure 4.1, p. 101.
+
+growth rates were 4.5 per cent and 3 per cent (Greenville, Pobke & Rogers 2013:
+102-4). While the ratio between the OECD average and the Australian average is
+similar, the stronger growth rates in Australia resulted in greater differences of wage
+levels between the top and bottom 10 per cent. This relationship between relative
+income growth and inequality will be explored later in the chapter in the context of
+
+recent ‘poverty wars’.
+
+Mi THEORIES OF CLASS
+
+A range of perspectives explaining the existence of class and class inequality in
+
+Australia has been put forward by sociologists. Each of these perspectives derives
+from one or other ‘classical’ view of class that can be traced to foundational sociolo-
+gies of the 19th century. The prominent theories that have been applied to Australian
+society are Marxist and Weberian views. Before examining their application to
+
+Australia, these perspectives will be described in more detail.
+
+Marxist theories of class
+
+Marx’s account of capitalist society is an appropriate launching place for a discussion
+of the concept of class, because it introduced the first systemic theory of class to the
+
+social sciences.
+
+Marxist theories of class in Australian society emphasise the fact that Australia is
+a capitalist society. For Marxists, the idiosyncrasies of Australian ‘culture’ observed by
+commentators such as Horne and Cater are important, but they are overshadowed by
+the dynamics of capitalism—in particular, the way it throws every human being into
+ceaseless competition between worker and worker, worker and capitalist, and capi-
+
+talist and capitalist.
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+CHAPTER 2 CLASS @®
+
+The theory of class was integral to Marx’s entire vision of historical development
+(see Chapter 16). For Marx, class is not simply a way of classifying a population but
+defines the operation of capitalist society. Capitalism produces and thrives on class
+divisions. For example, for Marxists unemployment is not a defect of capitalist society:
+rather, it allows the ruling class to increase its wealth relative to the working class
+through encouraging competition between workers.
+
+For Marx, class is defined according to the ownership of the means of production.
+Capitalist relations of production are characterised by a complete separation of the pro-
+ducers (working class) from the means of production. The class that owns the means
+of production, the bourgeoisie, is defined by its ownership of capital, forms of value—
+factories, machinery, land, rented properties and invested finance—that are used to
+accumulate more wealth. The ownership of the means of industrial production—the
+control over the production of subsistence and consumer goods—is the single most
+important kind of capital in both national and international contexts. All wealth is
+ultimately bound up with the circulation of this kind of capital. Renting property and
+investment are other longstanding forms of profit making. The activities of the petit
+bourgeoisie (or small businesses), which are basically to buy cheap and sell dear, or to
+take a commission in the sale of property, merely continue pre-industrial practices of
+trade. These subsidiary movements of capital were relatively unimportant for Marx in
+the analysis of classes under capitalism.
+
+As a class, capitalists have a near-total monopoly over the ownership and organisa-
+tion of the means of production, while all the workers possess is their labour power,
+which they must sell on the market as a commodity for wages. The relation between
+an individual capitalist and an individual worker is therefore an exchange relation
+determined by the market, as either are free to look elsewhere for a better exchange.
+When capitalist and worker meet in the marketplace, what appears to happen is a
+mutual exchange, a fair day’s pay for a fair day’s work. However, Marx’s economic
+theory sets out to show that the inherent inequality of this exchange lies in the fact
+that capitalists are able to make profits simply by virtue of organising production, and
+legally owning the means of production even though the workers actually generate
+this profit through their labour. For Marx, labour is the source of capitalist wealth,
+and in general it is through the activity of labour that economic value is created.
+However, workers are separated from the ownership and control of the wealth that is
+created by their work.
+
+Three important elements of Marx’s systemic approach to class are discussed
+below: the theory of surplus value; the subsistence wage and the reserve army of
+labour; and the concept of the middle class.
+
+The theory of surplus value
+
+Marx stresses that workers are free to sell their labour power, but have to sell it in order
+to live. In selling their labour power, workers give up their claims to the products they
+make, which are available on the market for exchange. Marx’s economic argument is
+
+working class
+
+The class under capitalism that
+lives through selling its labour
+on the market. Marx argued
+that in producing value greater
+than that of its own labour cost,
+the working class generates
+profit for the owning class. This
+relationship between the
+working class and the owning
+class is the fundamental class
+division under capitalism and
+always remains inherently
+antagonistic.
+
+bourgeoisie
+
+Under capitalism, the
+bourgeoisie is the ruling class
+and is also described as the
+capitalist class. It owns the
+principal means of production
+and purchases the labour power
+of the working class with the
+aim of making a profit.
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+@® AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+that the workers always receive less in wages than the value of the commodities they
+produce. Workers consume only a portion of these products, which they can buy back
+in the market with the wage they receive for their labour power. Importantly, the inequity
+that is produced in this relationship occurs only at the point of production, not consump-
+tion. According to Marx, no amount of redistributive taxation can address the fact that
+the reproduction of capitalism depends on the exploitation of workers, in which the
+workers produce the wealth for those who rule over them.
+
+In Marx’s theory of surplus value, the difference between the exchange value of the
+worker’s labour and its use value to the capitalist who buys it represents surplus value.
+The ratio of unpaid or surplus labour time to necessary labour time is the rate of
+exploitation. The capitalist is forced to calculate this realisation of value (and conse-
+quently is forced to exploit) in order to remain competitive against other capitalists.
+To generate profit, the capitalist expects to use the labour power that is bought to
+produce a quantity of commodities whose exchange value (appearing as a monetary
+price) is expected to be greater than the cost of production.
+
+Historically, capitalists have tried a range of measures to extract the maximum
+surplus value from workers. These include:
+
+™ extending the working day (a measure that was countered by the union movement's
+struggle for an eight-hour day: in Australia, the working week across most indus-
+tries has dropped from 48 hours as standard in 1901 to 44 hours by 1927 to the
+current 37.5 hours. However, since the mid-1990s, following the casualisation of
+many industries, individual hours have become less regulated)
+
+™ speeding up the pace of work (which may become a health and safety issue)
+
+@ dividing labour in increasingly detailed ways to achieve economies of scale (known
+as Taylorism and initiated by Henry Ford to produce motor vehicles in the United
+States in the early 20th century—see Chapter 10)
+
+™@ introducing more and more machinery, which de-skills the worker, produces more
+unemployment and drives down wages (machines are the products of the past
+labours of workers, even past generations of workers)
+
+™ attempting to de-unionise a workforce, which weakens the power of collective
+labour and extracts more corporate loyalty and hard work from workers.
+
+The subsistence wage and the reserve army of labour
+
+Marx believed that there was a general tendency under capitalism for the value of the
+worker’s labour power to be driven towards a value necessary to keep the worker at
+subsistence level, or ‘the subsistence wage’ (1976: 274). Capitalists constantly pressure
+legislators to set low rates for wages across the entire spectrum of the labour market.
+Politicians and representatives of the capitalist state apparatus who identify politically
+with the capitalist class will assist them in achieving this. They might also attempt to
+break union power in various ways in order to weaken the position of workers. In
+contrast, the union movement and pro-worker political parties will attempt to set
+minimum standards above the subsistence level (see Chapter 10).
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+CHAPTER 2 CLASS @®
+
+However, these struggles between the representatives of capital and of labour does
+not alter the fact that the exchange relation at the centre of the capitalist mode of
+production is unequal; it merely alters the rate of exploitation. The fact of exploitation
+is not a moral concern for Marx, but merely an economic term used to describe the
+form of power capitalists have over workers.
+
+Pro-capitalist politicians speak of new production facilities, mines and other
+investment in Australia in openly benevolent terms: corporations should be thanked
+for providing jobs as though this were an act of welfare. In fact, what induces capital-
+ists to buy each worker’s labour power is the search for higher rates of profit, and this
+holds whether workers are producing consumer goods or services (whether in a shoe
+factory, a call centre, a coal mine or a fast-food restaurant). If profitable conditions no
+longer prevail, capitalists either terminate production and reinvest in a more profit-
+able area of activity, or move operations elsewhere to a location where they do. The
+mere threat by capitalists to move location to cheaper places can also depress the level
+of workers’ wages.
+
+Employers also take advantage of unemployment to increase their power over
+workers. Unemployment leads to the creation of what Marx calls a ‘reserve army of
+labour’, which affects the employed workers by increasing competition for jobs and
+weakening their bargaining power for wage rises and better conditions.
+
+However, this struggle between capitalists and workers leads to one of the key
+contradictions in the capitalist system. If capitalists are unable to find new markets in
+which to sell their products, then the system suffers a crisis of ‘overproduction’, which
+sends it into recession. Capitalists do have recourse to remedying this situation as
+long as they successfully identify new markets for their goods as well as cheaper
+sources of labour. This remedy has been a major driving force behind economic
+globalisation (see Chapters 11 and 13).
+
+The growth of the middle class
+
+Marx claimed that the basic antagonism at the heart of capitalism was class polarisa-
+
+tion, thrusting the vast mass of individuals into the working class and concentrating
+
+capital in the hands of a small elite. In the light of the extraordinary resilience of
+
+capitalism, many modifications have been made to Marx’s theory over the years.
+
+Explanations included the significance of women’s unpaid domestic labour in repro-
+
+ducing capitalism, technological and organisational changes to the labour process, the
+
+establishment of arbitration in industrial relations systems (see Chapter 10), the rise
+
+of the technocratic state and managerialism, and the decline of class consciousness. _ class consciousness
+
+One major development that must be discussed here is the growth of a very sizeable meas dss secordingto
+
+middle class in the wealthier capitalist nations. ‘objective’ markers, such as
+Whether the class polarisation Marx described in the 19th century would unfold at Oy nonievewterown
+
+solely national levels rather than a global level was a point disputed by Marxists  dassand the class of othersis
+
+throughout the 20th century. Marx’s prediction of polarisation does appear more nts important
+
+aspect of class.
+accurate at a global level. The United States, whose dominance we noted in Chapter 1,
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+@® AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+embourgeoisement
+Refers to the entry of the
+traditional working class into
+affluent middle-class
+occupations, the decline of class
+consciousness within the
+working class and their
+adoption of middle-class values.
+The decline in union
+membership in advanced
+capitalist countries is one
+indicator of this, but so is the
+rise of individualism, the belief
+that one’s goals are achievable
+through individual effort.
+
+represents less than 6 per cent of the world’s population but consumes nearly 36 per
+cent of the world’s resources. This indicates that inequality also exists at global levels
+(see Chapter 13).
+
+What Marx did not predict was the extent to which the most advanced nations
+would develop very large middle classes, who would live, to a large degree, off
+cheaper labour from poorer nations with which trade was conducted. The higher
+average standards of living enjoyed by first-world consumers are partly a result of an
+unequal trade relationship with the third world where labour is very cheap (see
+Chapter 13).
+
+For example, a pair of running shoes made in Indonesia that might sell in Australia
+for $200 is equivalent to one-third of an average Australian worker’s weekly income,
+but would take four months’ wages to buy for an Indonesian factory worker. The col-
+lective struggles for improvements in working conditions and wages, and the fact that
+spending in real terms has risen substantially over the past 100 years in Australia,
+have made possible a sizeable section of middle-class consumers.
+
+Figure 2.3 shows how, between the mid-1940s and the beginning of the 21st
+century, price-adjusted consumption increased in Australia on average by about
+2.5 per cent each year, equivalent to a doubling of its value about every 28 years. This
+is broadly consistent with United Nations Human Development statistics, which
+show that between 1980 and 2008, household final consumption expenditure per
+capita increased from $10 776 to $18 378. (For an explanation of standardised inter-
+national dollars, see United Nations Development Program, UNDP 2010.)
+
+From the Marxist perspective, this substantial increase in average household con-
+sumption suggests that a large group of Australians is living well beyond a subsistence
+wage—the so-called ‘embourgeoisement’ of large sections of the working class.
+Paradoxically, the objective indicators of wealth and income inequality observed ear-
+lier in this chapter have corresponded with improvements in material wellbeing for
+large sections of middle- and working-class Australians. This paradox will be explored
+in the final section in reference to ‘poverty wars’.
+
+im TeN) 3 45<)) Household final consumption expenditure per capita, 1901-2001
+
+$000
+- 20
+
+I T T T T T T T T T 1
+1901 1911 1921 1931 1941 1951 1961 1971 1981 1991 2001
+
+Source: Saunders, P. (2001) ‘income and Welfare Centenary Article—Household Income and its Distribution’, Year Book
+Australia, 2001, <www.abs.gov.au/ausstats/>. © Commonwealth of Australia.
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+CHAPTER 2 CLASS @®
+
+Weber’s account of class and social stratification
+
+The most comprehensive non-Marxist theory of class was advanced by Max Weber
+(see Chapter 16). Weber agreed with Marx’s view of economic class, but advanced economic class
+further indicators that were also important in determining an individual’s social RDimolran
+position and power. The key differences between Marx and Weber derive from _ and income.
+their different methodologies. Marx is interested in the reproduction of capitalism
+as a whole (his ‘nomothetic’ system—see Chapter 16) and then looks at how indi-
+viduals are distributed within this system. In contrast, Weber conceived a picture
+of class from individual and social particularities (the ‘ideographic’ method—see
+Chapter 16). For this reason, Weber’s account of class is much more classificatory,
+and less structuralist (seeing the observable social world as the phenomenon of an
+inner dynamic).
+Another key difference between Marx and Weber is that whereas for Marx the
+class position of any individual is ultimately tied to the function they perform in the
+production process, for Weber it is also tied to the sphere of consumption and an
+individual’s labour-market status. Weber explores a range of visible differentials that
+determine social stratification, including economic class, social status and political
+
+power (or party).
+
+Economic class
+
+Like Marx, Weber defined class economically, but in such a way that it could be
+broken down into more observable units. For Weber, Marx’s two-class model
+involving worker and capitalist is too general to be meaningful. Economic class does
+not hinge solely on the ownership of productive capital but includes inherited prop-
+erty, which may also be unproductive. For example, primogeniture (inheritance)
+often, after several generations, earns the label of ‘old money’, as opposed to rising
+capitalist groups or families known as the nouveau riche. In Australia, examples of
+‘old money’ include the Baillieu or the Fairfax families, while the nouveau riche
+includes Lindsay Fox, Frank Lowy and Eddie McGuire. The fact that the older
+wealthy dynasties may no longer be investing in contemporary industry, and may
+have to sell off some of their property to pay for their upkeep, does not detract from
+their establishment status.
+
+Weber also proposes that the possession of certain skills commands respect and
+income in ways that wealth alone cannot. For this reason, for Weber, ‘the term class
+refers to any group of people ... who have the same typical chance for a supply of
+goods, external living conditions and personal life experiences’ according to their
+ability to ‘dispose of goods or skills for the sake of income’ (Gerth & Mills 1977: 181).
+
+Weber distinguished between four economic classes:
+
+m@ the propertied class
+
+@ the intelligentsia (the administrative and managerial classes)
+@ the traditional petit bourgeoisie
+
+m@ the working class.
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+@® AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+status
+
+Symbolic distinctions between
+groups that can be powerful
+forces of inclusion and exclusion
+and have real effects on
+people’s access to power,
+wealth and prestige.
+
+His addition of the two middle classes, the intelligentsia and traditional petit bour-
+geoisie, exemplifies his point that the possession of skills is as important as ownership
+of property. In the Marxist perspective, these classes are viewed either as a ‘residual’
+hangover from feudal society, or functionally dependent on one or both of the prin-
+cipal classes (labour and capital). Furthermore, Weber also saw no reason either for
+the polarisation of classes or the inevitability of class warfare.
+
+While Marx looked at the structure of production relations and then classified
+individuals and groups accordingly, Weber understood class relations as arising
+out of competition over ‘life chances’ and social honours. An individual’s ‘market
+situation’ fixes their place in the economic order: ‘Class situation is ... ultimately
+market situation’ (Weber, cited in Gerth & Mills 1977: 181).
+
+A market situation is defined according to material rewards, such as income,
+career prospects, credit potential, residential location, educational background, social
+mobility across personality networks and lifestyle culture. In turn, market capacities
+give rise to ‘life chances’, the relative market power of one’s attributes. Unlike Marx,
+Weber’s class structure is stratified rather than polarised.
+
+Status groups
+
+Weber posited an economic order and a social order as distinct settings for the dif-
+ferentiation of individuals and groups. Weber’s basic units for studying social power
+were not classes (which he argues cannot act) but groups and organisations.
+Stratification in society is determined by the way group power is institutionalised.
+Weber agrees with Marx that class relations are rooted in the objective side to
+inequality—but Weber also identifies a subjective side entailing ‘status’ and ‘party’.
+
+Status groups are formed on the basis of the collective judgement of others, and the
+assignment of honour and prestige within the social order: ‘in contrast to the eco-
+nomically determined class situation, we wish to designate as status situations, every
+typical component of the life fate of men that is determined by a specific, positive or
+negative social estimation of honour’ (Gerth & Mills 1977: 186-7). Status is defined
+as the unequal distribution of social honour, which cuts across class. The importance
+of status lies in the fact that it can create visible divisions between members of the
+same class (tensions between the ‘new rich’ and ‘old money’, locally born working
+class versus migrant working class, and so on). Belonging to a status group can
+enhance one’s market situation, as with the case of residency, credit potential and
+educational background, but it can be as individual as an actual ‘lifestyle’.
+
+Weber coined the term ‘lifestyle’ (lebensstil) to suggest that the accumulation of
+social honour requires conformity to a certain consistent ‘style of life’. Lifestyle varies
+widely: the lifestyle of a skateboarding teenager is distinct from that of a business
+executive; nevertheless, social honour plays an equally important role within the
+membership of these groups, regardless of what constitutes that honour.
+
+The importance of lifestyle was taken up by the work of Pierre Bourdieu, who
+contrasted the concept of economic capital with that of symbolic or ‘cultural capital’
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+CHAPTER 2 CLASS @®
+
+(Bourdieu 1987). In capitalist society, the cultural capital that is most valued are
+activities such as reading books, seeing films, travel and consuming things that indi-
+cate worldliness. This cultural capital can function as a means of mobility in a society
+where, economically, individuals are tightly locked into their market situation.
+
+An individual’s ability to participate in prestigious groups is limited by what
+Weberians call ‘social closure’ (Parkin 1979). Many status groups (for example, aris-
+tocratic, intellectual and religious groups) achieve social closure by promoting inter-
+marriage within their group, and by crediting themselves with titles, awards and
+status symbols. This helps identify ‘insiders’ (those who belong to the status group)
+and helps maintain social distance from ‘outsiders’ (those who do not belong to the
+status group).
+
+Status is a much wider concept than class, as it implicates gender, ethnicity, race
+and age. In a multicultural society where families are increasingly diversified, status
+is becoming increasingly important as a mark of individual identity (see Chapter 8).
+
+Party
+
+With ‘classes’ corresponding to the economic order, and ‘status groups’ making up
+the social order, there are also organisations in society where individuals form groups
+specifically in order to wield power and influence over others. These include political
+parties—such as the Liberal, Labor and Greens parties—but they can also be pressure
+groups and social movements. Membership of a party also intersects with class, and
+can sometimes be at odds with an individual's class.
+
+Mass political parties and interest groups are each concerned with asserting
+power, but they need not be acting from a desire to protect economic self-interest.
+Power is defined by Weber as ‘the probability that one actor within a social relation-
+ship will be in a position to carry out his own will despite resistance, regardless of the
+basis on which this probability rests’ (Weber [1922] 1968: 53). This power can be
+sourced from (i) access to the organised use of force, such as having command of
+police, military and security services; (ii) control over material resources of money,
+land and labour; and (iii) control of symbolic rewards (for example, a university con-
+ferring degrees).
+
+Various Australians have deployed Weber’s concepts to good effect. Encel (1970)
+investigated the existence of a ‘power elite’ that dominates Australia. This elite is
+not the same as a ruling class, because it is drawn from well-established pastoral and
+business families, professionals, political actors and high-ranking public officers.
+Membership of this class can be sourced from combinations of property ownership,
+educational background, political power and interlocking family connections. Encel
+also differentiated upper and lower fractions of the working class according to how
+the possession of skill influences ‘life chances’ and market situation. Subsequently,
+Wild (1978) and Dempsey (1990) each produced studies of the confluence of prop-
+erty earnings, educational attainment and status closure to differentiate power in
+various Australian settings.
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+@® AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+LO3 Distinguish
+between different
+classes in Australian
+society and the
+functions they perform
+
+li CLASSES IN AUSTRALIA
+
+We have seen how the main perspectives on class posit different models of (i) the
+nature of class and (ii) the function and identity of each class. The Marxist model
+discourages viewing classes as directly observable phenomena. This is because, for the
+Marxists, class is more than a group and primarily a structural relationship. It matters
+less who occupies the positions of rulers and ruled; rather, the object of inquiry
+focuses on the reproduction of these positions, and the class conflict it produces.
+
+The Weberian model allows for a more detailed description of the various kinds of
+class that exist in Australia, because it uses a wider range of indicators than the rela-
+tionship to productive capital. Status and power are important independent factors
+that contribute to individuals’ social position. Nearly all species of class theory, how-
+ever, are content to recognise the existence of a ruling class, a stratified middle class
+and a stratified working class.
+
+The ruling or upper class
+
+The ruling class is perhaps the least visible of all classes in Australia. Marxists argue
+that not only does the ruling class own the means of production; it also controls the
+state apparatus and access to information on how their private holdings of productive
+resources influence society. Surveying the membership of boards of large companies
+gives some insight into the close-knit nature of such a class (see Chesters 2011).
+
+Prominent sociological analysts of the activities of the ruling classes are Connell
+(see Connell 1977; Connell & Irving 1992), Kuhn & O’Lincoln (1996), Gilding (2000,
+2005), and Murray, Bierling and Alexander (1995). Connell (1977: 50) argued that this
+class is highly organised. It maintains a cultural and ideological hegemony, a form of
+moral leadership that is exercised economically, politically and ideologically (see
+Chapter 11 for an extended discussion of this). Economically, it has a monopoly over
+the ownership and control of productive resources; politically, it mobilises politicians
+to defend their proprietorial, legal and financial interests; and ideologically, it pres-
+sures governments to produce policies affecting the media, education and the arts that
+are favourable to its world-view. Given its status and lifestyle, this class is politically
+out of touch with the needs of the working class and the unemployed. In an attack on
+the neo-liberal economic reforms of the 1990s, Michael Pusey (2003: 163) condemns
+the ruling class for abandoning any concern for national or community values:
+“,.. these corporate leaders, these faceless men, are now as before in our history gener-
+ally egoistical and amoral people with little feeling for, or attachment to, the nation.’
+
+Furthermore, in conducting their daily life, the ruling class has little interest in the
+social services on which most of the nation depends. Probert (2001) remarks that the
+‘overclass’
+
+... have no use for the major institutions of the welfare state, public hospitals, public
+schools or pensions. They benefit from the short-term profit seeking of highly mobile
+investment funds. The rise of performance-related pay and bonuses, rather than status
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+CHAPTER 2 CLASS @q
+
+based salaries, helps to detach this group from more egalitarian workplace cultures.
+They are likely to believe that the public sector is a drain on the private sector’s ability
+to generate wealth, however untrue this might be.
+
+The Australian ruling class exhibits a high degree of concentrated ownership.
+Mining, pastoral activity, manufacturing, the media and service-sector corporations
+are being concentrated in fewer and fewer hands, as Marx predicted (Chesters 2011).
+Where such concentration does not appear on assets listings and share listings
+(private companies are not compelled to provide such information), it is also realised
+by interlocking directorships. Family background and intermarriage are other power-
+ful agents of the maintenance of ruling elites (Gilding 2000: 171):
+
+... fortunes are rarely vested in individuals alone. For a variety of reasons—notably, tax
+minimisation, business partnerships, the terms of inheritance, and protection against
+bankruptcy and criminal proceedings—they are usually spread out among groups of
+individuals. Most commonly, these groups of individuals are related through kinship.
+(Gilding 2005: 30)
+
+This power of the super-rich to hide their wealth encourages many less wealthy
+Australians to believe that there is no ruling class in this land of opportunity (Connell &
+Irving 1974).
+
+The middle class
+
+As noted earlier, Australia has seen an enormous growth of a middle class, but the
+economic processes behind such a class are not necessarily directly observable. Is the
+middle class merely functionally dependent on the two great classes, or is it a force in
+its own right? For corporations selling products, the middle class provides an indis-
+pensable market of consumers. As the largest class, it also commands occupations
+among significant income groups and dominates managerial positions, giving it con-
+siderable power in the capitalist market of products and ideas.
+
+Many analysts argue that the middle class cannot simply be positioned as a func-
+tional relay between capital and labour. For example, Beilharz (1985) argues that the
+so-called new middle class is intrinsic to contemporary capitalist production. The most
+important middle-class fraction to emerge in Australia is an outcome of the expanding
+welfare state and its requirements for ‘service, administrative and reproductive func-
+tions’ (1985: 100). At the same time, this fraction of the middle class do important work
+in providing the managerial skills necessary for dealing with the complex problems and
+risks associated with contemporary global capitalism. Largely due to their educational
+background, the middle-class strata of welfare administrators generally command
+higher salaries than the manual working class.
+
+Yet, Cater’s (2013) claim that these tertiary-educated professionals have become a
+ruling class in their own right is contradicted by evidence suggesting that they have
+become increasingly insecure over the past few decades. In The Experience of Middle
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+@q AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+Australia, Pusey (2003) sources this insecurity in the deregulation that undermined
+the stability of the arbitrated industrial system during the 1990s (see Chapter 10).
+This promoted a dramatic turn away from the more egalitarian conditions that
+Horne observed in the 1960s. Pusey interviewed a random sample of 400 people
+across five cities whose incomes range above the lowest one-third and below the
+highest tenth. He recorded views on family life, politics and community, from
+which he sketched an image of a ruthless neo-liberal capitalism breaking up the
+access people had to strong community ties and family life. Instead, this ‘middle
+Australia’ had been forced to turn to the market and consumerism in order to
+obtain the material and symbolic means of existence, as people’s everyday networks
+become thinner and households become more individualistic. In Pusey’s account,
+middle Australia is more the victim of contemporary capitalist restructuring than
+the architect of change.
+
+The working class
+
+In association with recent changes to the workforce, the number of Australians who
+identify as working class has declined over time. This decline is associated with the
+decline of Australian manufacturing employment (see Chapter 10). This ‘post-
+industrialisation’ of work in Australia, evident in the growth of a large service sector,
+is also associated with the decline of working-class culture.
+
+The traditional strength of the Australian working class was indicated by the fact
+that Australia was one of the first countries in the world to have a labour party,
+established specifically to represent workers. During the 1890s, the union movement
+had suffered greatly under a severe economic depression, regional legislation and
+government suppression, leading to strike actions that produced a stalemate between
+capital and labour.
+
+By the time of Federation, Prime Minister Alfred Deakin promoted a culture of
+arbitration between labour and capital. The setting of a ‘basic wage’ by Justice
+Higgins of the Federal Arbitration Court in 1907 had the effect of ‘institutionalising’
+the nature of class conflict in Australia for the next 80 years (Sorrell 1977). It was
+designed to act as a ‘family’ wage, defined as ‘a wage sufficient for an unskilled
+labourer to maintain himself and his family in frugal comfort’ (J. Hagan, cited in
+Gardner & Palmer 1997). State-sponsored arbitration between labour organisa-
+tions and employers also gave workers’ unions a strong sense of legitimacy, and for
+most of the 20th century unionisation rates remained at over 50 per cent of the
+workforce. This situation remained until the 1980s, when—ironically—a federal
+Labor government attempted to raise Australia’s international competitiveness
+through union rationalisation and the deregulation of the arbitration system. Rates
+of unionisation have subsequently experienced a steep downward trend (see
+Chapter 10).
+
+For most 21st-century workers, industrial relations have come to be character-
+ised by whatever they can wrest from their employers, rather than a fair and reason-
+able wage based on the collectively determined ‘living wage’. The decline in
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+CHAPTER 2 CLASS @q
+
+US 485) Profit and wages share of national income 1965-2011
+
+—— Compensation of employees share u
+= of total factor income 3
+os oe al — Profits share of total factor income pete a
+Be L275 §
+>E i) ep
+26 60.05 2
+Fe + 25.0 §
+Oe =
+5 8 B75is| 22.5 6
+28 By
+=> 55.0- | 20.0 &
+o & oy
+22 L17.5
+oO = ae
+Eo ez” L150 3
+OG
+© 50.0- L125 2
+i T T T T 1 =~
+1965-66 1974-75 1983-84 1992-93 2001-02 2010-11 s
+
+Source: Australian Bureau of Statistics (ABS) (2012) Australian System of National Accounts, 2011-12, Cat. No. 5204.0, released
+2 November, under ‘Income from GDP’. © Commonwealth of Australia.
+
+collective bargaining has increased the power of capital at the expense of individual
+workers. Figure 2.4 presents an indication of the relative strengths of the power of
+capital and labour as unionisation of the working class has declined to below
+20 per cent of the working population. The proportion of national income that has
+gone to workers (in wages) has declined while the proportion going to capital (in
+profit) has increased.
+
+The underclass and poverty wars LO4 Explain the
+
+controversies
+
+One of the most contested debates in the contemporary literature on class is over the surrounding the
+existence of an underclass in Australia. This concept identifies an important group P°V"Y “a5
+marginalised from the core economic activities of Australian society. Probert includes
+
+in this category
+
+... the unemployed and the very insecurely employed; the people on various kinds underclass
+. . A permanently unemployed
+of make-work schemes; the discouraged job seekers; the mothers who cannot afford class that has emerged in many
+
+post-industrial countries. Some
+live below the poverty line—at
+survive; those on disability pensions who would work if appropriate jobs existed; those a level at which they cannot
+maintain a basic existence.
+Some social commentators such
+as Deborah Hope suggest that
+
+: : : : Aborigines are the most visible
+For some Marxist sociologists, however, unemployed workers are still deemed to ample of anunderclassin
+belong to the working class, even though they cannot actively exercise the power to Australia (Hope 2000).
+withdraw their labour. In the context of contemporary capitalist employment prac-
+tices (see Chapter 10), full-time continuous employment for both skilled and
+unskilled workers is declining. Official employment statistics hide a high degree
+of part-time, casualised and piecemeal forms of employment. The right to a decent
+form of employment in which workers are respected for a fair day’s work has been
+greatly eroded, along with the idea of a ‘living wage’. As job conditions in many
+
+industries deteriorate, more workers either drop out of the labour market, undergo
+
+childcare; the growing army of the working poor who rely on welfare support to
+
+with part-time jobs who need a full-time income. (Probert 2001)
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+@q® AUSTRALIAN SOCIOLOGY: A CHANGING SOCIETY
+
+capabilities
+
+Aterm coined by the Nobel
+Prize-winning Indian economist
+Amartya Sen to describe the
+functioning, as distinct from
+abstract, freedoms people need
+in order to pursue the type of
+lives they value.
+
+LOS Analyse how
+sociologists measure
+inequalities
+
+long periods of welfare dependency and long-term unemployment or experience
+precarious employment.
+
+The first sociologist to argue for the existence of an underclass, William Wilson
+(1987), claimed that the emergence of the long-term unemployed in advanced
+capitalist countries would soon bring about generational reproduction of the condi-
+tion, in which educational disadvantage and poverty would lead an increasing
+number of persons to crime, drug addiction, depression, family breakdown and an
+inability to participate in many aspects of public life.
+
+Until 2001 there had been no significant studies in Australia to suggest that an
+underclass of permanently unemployed had become a significant local phenomenon.
+However, in December 2001, the debate over an underclass metamorphosed into the
+‘poverty wars’, with the release of a report conducted by a well-respected Canberra-
+based research centre—the National Centre for Social and Economic Modelling
+(NATSEM). The report, Financial Disadvantage in Australia 1990 to 2000: The
+Persistence of Poverty in a Decade of Growth, was commissioned by The Smith Family
+and presented the case that poverty in Australia was more extensive than most
+Australians had been prepared to admit. On the basis of the evidence, The Smith
+Family argued that Australia was dividing into the ‘haves’ and the ‘have-nots’.
+
+The Smith Family/NATSEM report constituted a comprehensive appraisal of
+poverty in Australia. The benchmark for defining a family living in poverty was a
+family with two children, with a combined income of less than half the average
+weekly earnings ($416 in 2001). Long-term unemployment was the most basic
+circumstance of such poverty. The report calculated that the numbers of
+Australians living in ‘relative poverty’ rose from 11.4 per cent to 13 per cent dur-
+ing the 1990s despite the fact that the Australian economy was experiencing
+impressive economic growth. Relative poverty is defined in relation to average
+incomes, rather than the cost of being able to maintain subsistence, which is
+defined by a line of ‘absolute poverty’. In October 2012, the Australian Council of
+Social Services (ACOSS 2012: 6) released a report entitled Poverty in Australia that
+found that the extent of relative poverty had marginally increased over the decade
+since the original Smith Family/NATSEM report.
+
+However, relative poverty involves more than survival on a low income. It is
+indicative of a class of persons who have low capabilities as a result of their social
+disadvantage (see Headey 2005). Such capabilities may be restricted by a lack of access
+to social, cultural and human capital as well as poor health conditions that often
+accompany low income. In other words, the chances of the poor improving their sta-
+tion is limited by their structural circumstances, and this finding undermines the idea
+of a ‘fair-go’ society.
+
+Nevertheless, critics of the Smith Family/NATSEM report belittled the concept
+of relative poverty. A month after it was released, the Centre for Independent
+Studies (CIS 2002) attacked the methodology of the report, with Poor Arguments:
+A Response to The Smith Family Report on Poverty in Australia, stating that it was
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
+CHAPTER 2 CLASS @q
+
+configured to return measurements of increasing poverty to suit the interests of the
+welfare lobby in which The Smith Family is a major player. The specific criticism
+was that NATSEM used half of the mean (average) family income rather than half
+of the median, which would have produced a poverty rate four percentage points
+lower. The median income is the income that is located exactly halfway down the
+full range of incomes. The CIS criticised the use of the average income because this
+measure is more sensitive to movements at the top end of the income scale, which
+can raise the number of people in poverty using NATSEM’s definition of poverty.
+The CIS interpretation of the NATSEM data was that while the rich had got
+considerably richer, the poor had become richer at a lower rate. Robertson (2012)
+levelled a similar criticism at the use of ‘relative poverty’ in the 2012 ACOSS Report,
+arguing that under this definition, “even if everyone becomes richer, “poverty”
+would stay exactly the same’.
+
+Both sides of the debate agreed that there was an arbitrariness to the setting of a
+relative poverty-line benchmark. What is not arbitrary, however, is the fact that con-
+sistent use of the same benchmark over time will return a more objective measure-
+ment of a trend based on that benchmark. Thus, while the CIS showed that the
+poverty rate would be lower than using the average if NATSEM used the half-median
+method, it drew little attention to the fact that even if the median method was used,
+the number of Australians living in poverty grew over the 1990s. Furthermore,
+NATSEM tested 12 separate poverty measures, 11 of which demonstrated an increase
+in poverty, with the half-mean method exemplifying the trend.
+
+Defenders of the capitalist system argue that inequality is in fact inevitable and
+that the poor will always be with us. They give credit to the ruling and employing
+classes for creating wealth in society. In doing so, everyone in society can benefit,
+even if the rich benefit at a greater rate. They argue that it is better to give poor
+people a ‘hand up’ rather than a ‘hand out’ (Skeffington 2002). This argument is
+based on two assumptions: first, it suggests that the privileges of the wealthy have
+nothing to do with the circumstances of those in poverty; second, that the posi-
+tion of those in poverty is principally an individual failure to take advantage of
+opportunities.
+
+However, this approach tends to gloss over the social experience of poverty.
+People’s opportunities are framed within the context of the assets and opportunities
+held by other members of society. Gaining employment requires adequate trans-
+portation, acceptable attire and sometimes useful social networks. For a child to
+learn to participate in society, they also require adequate resources from their par-
+ents, including funds for school trips and sporting club fees, as well as adequate
+clothes, shelter and food. For this reason, measuring whether Australians experi-
+ence ‘relative poverty’ is a more socially meaningful debate than whether they suffer
+‘absolute poverty’.
+
+As Leigh (2013: 86) states in Battlers and Billionaires: The Story of Inequality in
+Australia: “You can’t define poverty without thinking about what’s normal in a society’.
+
+Copyright © Pearson Australia (a division of Pearson Australia Group Pty Ltd) 2015 — 9781486003310 - Holmes/Australian Sociology 4e
+
+
