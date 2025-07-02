@@ -1,13 +1,5 @@
 import pytesseract
 from pdf2image import convert_from_path
-import os
-import pytesseract
-from pdf2image import convert_from_path
-import os
-import time
-
-import pytesseract
-from pdf2image import convert_from_path
 import os, time
 
 def ocr_batch(pdf_path, output_dir, batch_size=50, dpi=300, max_pages=None):
